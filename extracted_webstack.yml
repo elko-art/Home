@@ -1,0 +1,167 @@
+# WebStack 导航数据 - 从MHTML文件提取
+
+- taxonomy: 第二页
+  icon: fas fa-download fa-lg
+  list:
+  - term: 综合
+    links:
+    - title: 海盗湾
+      logo: default.webp
+      url: https://thepiratebay.org/
+      description: 海盗湾
+    - title: rutracker
+      logo: default.webp
+      url: https://rutracker.org/
+      description: rutracker
+    - title: 博客园
+      logo: default.webp
+      url: https://www.cnblogs.com/
+      description: 博客园
+    - title: 52破解
+      logo: default.webp
+      url: https://www.52pojie.org/forum-2-1.html
+      description: 52破解
+    - title: 图欧资源站
+      logo: default.webp
+      url: https://tuostudy.upnb.top/
+      description: 图欧资源站
+  - term: 扒视频
+    links:
+    - title: 油管
+      logo: default.webp
+      url: https://youtube.iiilab.com/
+      description: 油管
+    - title: 油管字幕
+      logo: default.webp
+      url: https://downsub.com/
+      description: 油管字幕
+    - title: 推特视频下载
+      logo: default.webp
+      url: https://xdown.app/zh-cn
+      description: 推特视频下载
+  - term: 软件
+    links:
+    - title: 羽图
+      logo: default.webp
+      url: https://www.yutu.cn/
+      description: 羽图
+    - title: sai
+      logo: default.webp
+      url: https://sai.piv.ink/#download
+      description: sai
+    - title: 百分之千
+      logo: default.webp
+      url: https://gitee.com/ww3w/dzb/blob/master/dzb.md
+      description: 百分之千
+    - title: 谷歌版
+      logo: default.webp
+      url: https://www.firepx.com/app/
+      description: 谷歌版
+    - title: 蓝鲨
+      logo: default.webp
+      url: http://www.lsapk.com/
+      description: 蓝鲨
+    - title: sourceforge
+      logo: default.webp
+      url: https://sourceforge.net/
+      description: sourceforge
+  - term: 软件2
+    links:
+    - title: 易破解
+      logo: default.webp
+      url: https://www.ypojie.com/
+      description: 易破解
+    - title: sordum
+      logo: default.webp
+      url: https://www.sordum.org/
+      description: sordum
+  - term: 电子书
+    links:
+    - title: 国内电子书
+      logo: default.webp
+      url: https://www.jiumodiary.com/
+      description: 国内电子书
+    - title: yumpu
+      logo: default.webp
+      url: https://www.yumpu.com/en
+      description: yumpu
+    - title: kupdf
+      logo: default.webp
+      url: https://kupdf.net/
+      description: kupdf
+    - title: 安娜档案
+      logo: default.webp
+      url: https://annas-archive.org/
+      description: 安娜档案
+    - title: 互联网档案
+      logo: default.webp
+      url: https://archive.org/
+      description: 互联网档案
+    - title: ITe
+      logo: default.webp
+      url: https://it-ebooks.info/
+      description: ITe
+  - term: 电子书2
+    links:
+    - title: comic
+      logo: default.webp
+      url: https://getcomics.org/
+      description: comic
+  - term: 网盘
+    links:
+    - title: 千帆
+      logo: default.webp
+      url: https://pan.qianfan.app/
+      description: 千帆
+    - title: 阿里云盘
+      logo: default.webp
+      url: https://www.alipansou.com/
+      description: 阿里云盘
+  - term: 音乐
+    links:
+    - title: 原声带
+      logo: default.webp
+      url: https://sittingonclouds.net/
+      description: 原声带
+    - title: lazy midi
+      logo: default.webp
+      url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
+      description: lazy midi
+  - term: 游戏
+    links:
+    - title: 修改版游戏
+      logo: default.webp
+      url: https://androeed.store/
+      description: 修改版游戏
+    - title: mody
+      logo: default.webp
+      url: https://apkmody.com/
+      description: mody
+    - title: lite
+      logo: default.webp
+      url: https://liteapks.com/
+      description: lite
+    - title: pb汉化组
+      logo: default.webp
+      url: https://pbteam.cn/
+      description: pb汉化组
+  - term: 神秘小网站
+    links:
+    - title: ？
+      logo: default.webp
+      url: https://rule34.paheal.net/
+      description: ？
+
+- taxonomy: 第三页
+  icon: fas fa-folder-open fa-lg
+  list:
+  - term: 就业
+    links:
+    - title: my visa job
+      logo: default.webp
+      url: https://www.myvisajobs.com/
+      description: my visa job
+    - title: migratemate
+      logo: default.webp
+      url: https://migratemate.co/
+      description: migratemate

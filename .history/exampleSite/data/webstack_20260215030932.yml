@@ -1,0 +1,235 @@
+﻿- taxonomy: 第一页
+  icon: fas fa-home fa-lg
+  list:
+    - term: 个人站点
+      links:
+        - title: ELKO
+          logo: default.webp
+          url: https://elko-utopia.github.io/Creation_notes/
+          description: ELKO 创作笔记。
+        - title: peter
+          logo: default.webp
+          url: https://peterlogic1.github.io/
+          description: peter 个人主页。
+        - title: stevenroberson
+          logo: stevenroberson.com.png
+          url: https://www.stevenroberson.com/
+          description: Steven Roberson 个人网站。
+        - title: sync
+          logo: default.webp
+          url: http://174.56.175.41:9000/
+          description: 同步服务器。
+        - title: Quartz 4
+          logo: quartz.jzhao.xyz.png
+          url: https://quartz.jzhao.xyz/
+          description: Quartz 静态站点生成器。
+    - term: 网站分析
+      links:
+        - title: 分析工具
+          logo: pagespeed.web.dev.png
+          url: https://pagespeed.web.dev/analysis/
+          description: Google PageSpeed 网站速度分析工具。
+        - title: Bing站长
+          logo: bing.com.png
+          url: https://www.bing.com/webmasters
+          description: Bing 站长工具。
+        - title: Google站长
+          logo: search.google.com.png
+          url: https://search.google.com/search-console
+          description: Google Search Console 站长工具。
+    - term: 其他工具
+      links:
+        - title: Buttondown
+          logo: buttondown.com.png
+          url: https://buttondown.com/home
+          description: 邮件订阅服务。
+        - title: DeepSeek API
+          logo: platform.deepseek.com.png
+          url: https://platform.deepseek.com/usage
+          description: DeepSeek API 平台。
+    - term: 海外平台
+      links:
+        - title: YouTube
+          logo: youtube.com.png
+          url: https://www.youtube.com/
+          description: 视频分享平台。
+        - title: Instagram
+          logo: instagram.com.png
+          url: https://www.instagram.com/
+          description: 图片社交平台。
+        - title: Discord
+          logo: discord.com.png
+          url: https://discord.com/
+          description: 语音和文字聊天平台。
+        - title: Pixiv
+          logo: pixiv.net.png
+          url: https://www.pixiv.net/?lang=zh
+          description: 插画交流网站。
+        - title: GitHub
+          logo: github.com.png
+          url: https://github.com/
+          description: 代码托管平台。
+        - title: Padlet
+          logo: padlet.com.png
+          url: https://padlet.com/
+          description: 在线协作白板。
+        - title: Pinterest
+          logo: pinterest.com.png
+          url: https://www.pinterest.com/
+          description: 图片收藏分享平台。
+    - term: 视频音乐
+      links:
+        - title: B站搜索
+          logo: search.bilibili.com.png
+          url: https://search.bilibili.com/all
+          description: 哔哩哔哩搜索。
+    - term: 笔记工具
+      links:
+        - title: 幕布
+          logo: mubu.com.png
+          url: https://mubu.com/explore
+          description: 大纲笔记工具。
+    - term: 语音服务
+      links:
+        - title: 豆包语音
+          logo: console.volcengine.com.png
+          url: https://console.volcengine.com/speech/service/10039
+          description: 火山引擎语音合成服务。
+    - term: 学校平台
+      links:
+        - title: SCAD
+          logo: my.scad.edu.png
+          url: https://my.scad.edu/uPortal/f/Home/normal/render.uP
+          description: SCAD 学生门户。
+        - title: Blackboard
+          logo: scad.blackboard.com.png
+          url: https://scad.blackboard.com/ultra/institution-page
+          description: Blackboard 学习管理系统。
+        - title: ELO
+          logo: app.scad.edu.png
+          url: https://app.scad.edu/workshops/
+          description: SCAD 工作坊预约。
+        - title: SCAD课程
+          logo: scad.edu.png
+          url: https://www.scad.edu/academics/programs/animation/degrees/bfa
+          description: SCAD 动画课程。
+        - title: ISSO
+          logo: depts.scad.edu.png
+          url: http://depts.scad.edu/isso
+          description: SCAD 国际学生服务办公室。
+        - title: 12twenty
+          logo: default.webp
+          url: https://scad.12twenty.com/
+          description: SCAD 职业服务平台。
+    - term: 学校作业
+      links:
+        - title: ESL5
+          logo: default.webp
+          url: https://learn.eltngl.com/dashboard/courses
+          description: 英语学习平台。
+        - title: SCAD志愿者
+          logo: default.webp
+          url: https://scad.galaxydigital.com/
+          description: SCAD 志愿者服务平台。
+        - title: Vidu
+          logo: default.webp
+          url: https://www.vidu.com/home/recommend
+          description: 视频创作平台。
+        - title: Credly Badge
+          logo: default.webp
+          url: https://www.credly.com/organizations/savannah-college-of-art-design/badges
+          description: SCAD 数字徽章。
+        - title: LinkedIn
+          logo: default.webp
+          url: https://www.linkedin.com/feed/
+          description: 职业社交平台。
+        - title: Speechace
+          logo: default.webp
+          url: https://www.speechace.com/
+          description: 英语发音评测工具。
+    - term: 语言学习
+      links:
+        - title: Google 翻译
+          logo: default.webp
+          url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
+          description: Google 翻译服务。
+        - title: 剑桥词典
+          logo: default.webp
+          url: https://dictionary.cambridge.org/zhs/
+          description: 剑桥英语词典。
+        - title: 墨墨背单词
+          logo: default.webp
+          url: https://www.maimemo.com/
+          description: 背单词应用。
+        - title: 有道翻译
+          logo: default.webp
+          url: https://fanyi.youdao.com/indexLLM.html#/TextTranslate
+          description: 有道在线翻译。
+    - term: 技术工具
+      links:
+        - title: Magisk
+          logo: default.webp
+          url: https://magiskcn.com/
+          description: Android Root 工具。
+        - title: 单位换算
+          logo: default.webp
+          url: https://cn.unithelper.com/data-storage/
+          description: 在线单位换算工具。
+        - title: Quicker
+          logo: default.webp
+          url: https://getquicker.net/Share
+          description: Windows 效率工具。
+        - title: 兽音译者
+          logo: default.webp
+          url: https://roar.iiilab.com/
+          description: 兽音文字转换器。
+        - title: PS快捷键
+          logo: default.webp
+          url: https://www.cheat-sheet.cn/post/photoshop-keyboard-shortcuts/
+          description: Photoshop 快捷键速查表。
+    - term: AI 工具
+      links:
+        - title: Hugging Face
+          logo: default.webp
+          url: https://huggingface.co/
+          description: AI 语言模型社区。
+        - title: Chub AI
+          logo: default.webp
+          url: https://www.chub.ai/
+          description: AI 角色卡平台。
+        - title: ZeroGPT
+          logo: default.webp
+          url: https://www.zerogpt.com/
+          description: AI 内容检测工具。
+        - title: ChatGPT
+          logo: default.webp
+          url: https://chatgpt.com/
+          description: OpenAI 聊天机器人。
+        - title: Gemini
+          logo: default.webp
+          url: https://gemini.google.com/
+          description: Google AI 助手。
+        - title: NotebookLM
+          logo: default.webp
+          url: https://notebooklm.google.com/
+          description: Google AI 笔记助手。
+    - term: 游戏相关
+      links:
+        - title: 蔚蓝202榜单
+          logo: default.webp
+          url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
+          description: Celeste 202关卡榜单。
+        - title: 蔚蓝喵服
+          logo: default.webp
+          url: https://celeste.centralteam.cn/
+          description: Celeste 中文服务器。
+        - title: MC种子查询
+          logo: default.webp
+          url: https://www.chunkbase.com/
+          description: Minecraft 种子查询工具。
+    - term: 安全工具
+      links:
+        - title: VirusTotal
+          logo: default.webp
+          url: https://www.virscan.org/
+          description: 在线病毒扫描工具。
