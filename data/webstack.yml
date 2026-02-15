@@ -624,4 +624,271 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-        
+
+
+- taxonomy: 个人站点
+  icon: fas fa-user fa-lg
+  links:
+    - title: ELKO
+      logo: https://api.iowen.cn/favicon/elko-utopia.github.io.png
+      url: https://elko-utopia.github.io/Creation_notes/
+      description: ELKO 创作笔记。
+    - title: peter
+      logo: https://api.iowen.cn/favicon/peterlogic1.github.io.png
+      url: https://peterlogic1.github.io/
+      description: peter 个人主页。
+    - title: stevenroberson
+      logo: https://api.iowen.cn/favicon/www.stevenroberson.com.png
+      url: https://www.stevenroberson.com/
+      description: Steven Roberson 个人网站。
+    - title: sync
+      logo: https://api.iowen.cn/favicon/174.56.175.41.png
+      url: http://174.56.175.41:9000/
+      description: 同步服务器。
+    - title: Quartz 4
+      logo: https://api.iowen.cn/favicon/quartz.jzhao.xyz.png
+      url: https://quartz.jzhao.xyz/
+      description: Quartz 静态站点生成器。
+
+
+- taxonomy: 站长工具
+  icon: fas fa-wrench fa-lg
+  list:
+    - term: 网站分析
+      links:
+        - title: 分析工具
+          logo: https://api.iowen.cn/favicon/pagespeed.web.dev.png
+          url: https://pagespeed.web.dev/analysis/
+          description: Google PageSpeed 网站速度分析工具。
+        - title: Bing站长
+          logo: https://api.iowen.cn/favicon/www.bing.com.png
+          url: https://www.bing.com/webmasters
+          description: Bing 站长工具。
+        - title: Google站长
+          logo: https://api.iowen.cn/favicon/search.google.com.png
+          url: https://search.google.com/search-console
+          description: Google Search Console 站长工具。
+    - term: 其他工具
+      links:
+        - title: Buttondown
+          logo: https://api.iowen.cn/favicon/buttondown.com.png
+          url: https://buttondown.com/home
+          description: 邮件订阅服务。
+        - title: DeepSeek API
+          logo: https://api.iowen.cn/favicon/platform.deepseek.com.png
+          url: https://platform.deepseek.com/usage
+          description: DeepSeek API 平台。
+
+
+- taxonomy: 海外平台
+  icon: fas fa-globe fa-lg
+  links:
+    - title: YouTube
+      logo: https://api.iowen.cn/favicon/www.youtube.com.png
+      url: https://www.youtube.com/
+      description: 视频分享平台。
+    - title: Instagram
+      logo: https://api.iowen.cn/favicon/www.instagram.com.png
+      url: https://www.instagram.com/
+      description: 图片社交平台。
+    - title: Discord
+      logo: https://api.iowen.cn/favicon/discord.com.png
+      url: https://discord.com/
+      description: 语音和文字聊天平台。
+    - title: Pixiv
+      logo: https://api.iowen.cn/favicon/www.pixiv.net.png
+      url: https://www.pixiv.net/?lang=zh
+      description: 插画交流网站。
+    - title: GitHub
+      logo: https://api.iowen.cn/favicon/github.com.png
+      url: https://github.com/
+      description: 代码托管平台。
+    - title: Padlet
+      logo: https://api.iowen.cn/favicon/padlet.com.png
+      url: https://padlet.com/
+      description: 在线协作白板。
+    - title: Pinterest
+      logo: https://api.iowen.cn/favicon/www.pinterest.com.png
+      url: https://www.pinterest.com/
+      description: 图片收藏分享平台。
+
+
+- taxonomy: 常用网站
+  icon: fas fa-bookmark fa-lg
+  list:
+    - term: 视频音乐
+      links:
+        - title: B站搜索
+          logo: https://api.iowen.cn/favicon/search.bilibili.com.png
+          url: https://search.bilibili.com/all
+          description: 哔哩哔哩搜索。
+    - term: 笔记工具
+      links:
+        - title: 幕布
+          logo: https://api.iowen.cn/favicon/mubu.com.png
+          url: https://mubu.com/explore
+          description: 大纲笔记工具。
+    - term: 语音服务
+      links:
+        - title: 豆包语音
+          logo: https://api.iowen.cn/favicon/console.volcengine.com.png
+          url: https://console.volcengine.com/speech/service/10039
+          description: 火山引擎语音合成服务。
+
+
+- taxonomy: 学校相关
+  icon: fas fa-graduation-cap fa-lg
+  list:
+    - term: 学校平台
+      links:
+        - title: SCAD
+          logo: https://api.iowen.cn/favicon/my.scad.edu.png
+          url: https://my.scad.edu/uPortal/f/Home/normal/render.uP
+          description: SCAD 学生门户。
+        - title: Blackboard
+          logo: https://api.iowen.cn/favicon/scad.blackboard.com.png
+          url: https://scad.blackboard.com/ultra/institution-page
+          description: Blackboard 学习管理系统。
+        - title: ELO
+          logo: https://api.iowen.cn/favicon/app.scad.edu.png
+          url: https://app.scad.edu/workshops/
+          description: SCAD 工作坊预约。
+        - title: SCAD课程
+          logo: https://api.iowen.cn/favicon/www.scad.edu.png
+          url: https://www.scad.edu/academics/programs/animation/degrees/bfa
+          description: SCAD 动画课程。
+        - title: ISSO
+          logo: https://api.iowen.cn/favicon/depts.scad.edu.png
+          url: http://depts.scad.edu/isso
+          description: SCAD 国际学生服务办公室。
+        - title: 12twenty
+          logo: https://api.iowen.cn/favicon/scad.12twenty.com.png
+          url: https://scad.12twenty.com/
+          description: SCAD 职业服务平台。
+    - term: 学校作业
+      links:
+        - title: ESL5
+          logo: https://api.iowen.cn/favicon/learn.eltngl.com.png
+          url: https://learn.eltngl.com/dashboard/courses
+          description: 英语学习平台。
+        - title: SCAD志愿者
+          logo: https://api.iowen.cn/favicon/scad.galaxydigital.com.png
+          url: https://scad.galaxydigital.com/
+          description: SCAD 志愿者服务平台。
+        - title: Vidu
+          logo: https://api.iowen.cn/favicon/www.vidu.com.png
+          url: https://www.vidu.com/home/recommend
+          description: 视频创作平台。
+        - title: Credly Badge
+          logo: https://api.iowen.cn/favicon/www.credly.com.png
+          url: https://www.credly.com/organizations/savannah-college-of-art-design/badges
+          description: SCAD 数字徽章。
+        - title: LinkedIn
+          logo: https://api.iowen.cn/favicon/www.linkedin.com.png
+          url: https://www.linkedin.com/feed/
+          description: 职业社交平台。
+        - title: Speechace
+          logo: https://api.iowen.cn/favicon/www.speechace.com.png
+          url: https://www.speechace.com/
+          description: 英语发音评测工具。
+
+
+- taxonomy: 语言学习
+  icon: fas fa-language fa-lg
+  links:
+    - title: Google 翻译
+      logo: https://api.iowen.cn/favicon/translate.google.com.png
+      url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
+      description: Google 翻译服务。
+    - title: 剑桥词典
+      logo: https://api.iowen.cn/favicon/dictionary.cambridge.org.png
+      url: https://dictionary.cambridge.org/zhs/
+      description: 剑桥英语词典。
+    - title: 墨墨背单词
+      logo: https://api.iowen.cn/favicon/www.maimemo.com.png
+      url: https://www.maimemo.com/
+      description: 背单词应用。
+    - title: 有道翻译
+      logo: https://api.iowen.cn/favicon/fanyi.youdao.com.png
+      url: https://fanyi.youdao.com/indexLLM.html#/TextTranslate
+      description: 有道在线翻译。
+
+
+- taxonomy: 技术工具
+  icon: fas fa-tools fa-lg
+  links:
+    - title: Magisk
+      logo: https://api.iowen.cn/favicon/magiskcn.com.png
+      url: https://magiskcn.com/
+      description: Android Root 工具。
+    - title: 单位换算
+      logo: https://api.iowen.cn/favicon/cn.unithelper.com.png
+      url: https://cn.unithelper.com/data-storage/
+      description: 在线单位换算工具。
+    - title: Quicker
+      logo: https://api.iowen.cn/favicon/getquicker.net.png
+      url: https://getquicker.net/Share
+      description: Windows 效率工具。
+    - title: 兽音译者
+      logo: https://api.iowen.cn/favicon/roar.iiilab.com.png
+      url: https://roar.iiilab.com/
+      description: 兽音文字转换器。
+    - title: PS快捷键
+      logo: https://api.iowen.cn/favicon/www.cheat-sheet.cn.png
+      url: https://www.cheat-sheet.cn/post/photoshop-keyboard-shortcuts/
+      description: Photoshop 快捷键速查表。
+
+
+- taxonomy: AI 工具
+  icon: fas fa-robot fa-lg
+  links:
+    - title: Hugging Face
+      logo: https://api.iowen.cn/favicon/huggingface.co.png
+      url: https://huggingface.co/
+      description: AI 语言模型社区。
+    - title: Chub AI
+      logo: https://api.iowen.cn/favicon/www.chub.ai.png
+      url: https://www.chub.ai/
+      description: AI 角色卡平台。
+    - title: ZeroGPT
+      logo: https://api.iowen.cn/favicon/www.zerogpt.com.png
+      url: https://www.zerogpt.com/
+      description: AI 内容检测工具。
+    - title: ChatGPT
+      logo: https://api.iowen.cn/favicon/chatgpt.com.png
+      url: https://chatgpt.com/
+      description: OpenAI 聊天机器人。
+    - title: Gemini
+      logo: https://api.iowen.cn/favicon/gemini.google.com.png
+      url: https://gemini.google.com/
+      description: Google AI 助手。
+    - title: NotebookLM
+      logo: https://api.iowen.cn/favicon/notebooklm.google.com.png
+      url: https://notebooklm.google.com/
+      description: Google AI 笔记助手。
+
+
+- taxonomy: 游戏相关
+  icon: fas fa-gamepad fa-lg
+  links:
+    - title: 蔚蓝202榜单
+      logo: https://api.iowen.cn/favicon/docs.google.com.png
+      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
+      description: Celeste 202关卡榜单。
+    - title: 蔚蓝喵服
+      logo: https://api.iowen.cn/favicon/celeste.centralteam.cn.png
+      url: https://celeste.centralteam.cn/
+      description: Celeste 中文服务器。
+    - title: MC种子查询
+      logo: https://api.iowen.cn/favicon/www.chunkbase.com.png
+      url: https://www.chunkbase.com/
+      description: Minecraft 种子查询工具。
+
+
+- taxonomy: 安全工具
+  icon: fas fa-shield-alt fa-lg
+  links:
+    - title: VirusTotal
+      logo: https://api.iowen.cn/favicon/www.virscan.org.png
+      url: https://www.virscan.org/
+      description: 在线病毒扫描工具。
