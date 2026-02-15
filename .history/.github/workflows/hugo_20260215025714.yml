@@ -1,0 +1,39 @@
+name: Hugo Actions # 名字自取
+
+on:
+  push:
+    branches:
+      - main  # 这里的意思是当 main 分支发生 push 的时候，运行下面的 jobs
+
+jobs:
+  deploy: 
+    runs-on: ubuntu-latest 	# 在什么环境运行任务
+    permissions:
+      contents: write  # 给予写权限，允许推送到 gh-pages 分支
+    steps:
+      - uses: actions/checkout@v4   # 引用 actions/checkout 这个 action，与所在的 github 仓库同名
+        with:
+         submodules: true  # Fetch Hugo themes (true OR recursive) 获取 submodule 主题
+         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+         
+      - name: Setup Hugo	# 步骤名自取
+        uses: peaceiris/actions-hugo@v2   # Hugo 官方提供的 action，用于在任务环境中获取 hugo
+        with:
+          hugo-version: '0.122.0'	# 获取指定版本的 hugo
+          extended: false
+
+      - name: Build Site
+        run: |
+          cd exampleSite
+          mkdir -p themes/WebStack-Hugo
+          cp -r ../layouts ../static ../LICENSE themes/WebStack-Hugo/
+          hugo --baseURL https://elko-utopia.github.io/Home/
+          
+      - name: Deploy Pages
+        uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}	# 使用 GitHub 自动生成的 token，无需额外配置
+          publish_dir: ./exampleSite/public	
+          #注意这里指的是 Pages 要发布哪个文件夹的内容，而不是指发布到目标仓库的什么位置；因为 hugo 默认生成静态网页到 public 文件夹，所以这里发布 public 文件夹里的内容。
+          publish_branch: gh-pages	# 发布到哪个 branch
+          full_commit_message: ${{ github.event.head_commit.message }}
