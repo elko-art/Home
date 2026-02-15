@@ -24,9 +24,9 @@ jobs:
 
       - name: Build Site
         run: |
-          cd exampleSite
           mkdir -p themes
-          cp -r ../layouts ../static ../LICENSE themes/WebStack-Hugo/
+          ln -s $(pwd) themes/WebStack-Hugo
+          cd exampleSite
           hugo --baseURL https://elko-utopia.github.io/Home/
           
       - name: Deploy Pages

@@ -25,9 +25,7 @@ jobs:
       - name: Build Site
         run: |
           cd exampleSite
-          mkdir -p themes
-          cp -r ../layouts ../static ../LICENSE themes/WebStack-Hugo/
-          hugo --baseURL https://elko-utopia.github.io/Home/
+          hugo --themesDir ../../ --baseURL https://elko-utopia.github.io/Home/
           
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
