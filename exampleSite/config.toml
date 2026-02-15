@@ -1,4 +1,4 @@
-baseURL               = "baseURL = "https://elko-utopia.github.io/Home/"
+baseURL               = "https://webstack-hugo.weiyan.cc/"
 languageCode          = "zh-CN"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
