@@ -297,8 +297,6 @@
       logo: https://www.google.com/s2/favicons?domain=sourceforge.net&sz=64
       url: https://sourceforge.net/
       description: sourceforge
-  - term: 软件2
-    links:
     - title: 易破解
       logo: https://www.google.com/s2/favicons?domain=ypojie.com&sz=64
       url: https://www.ypojie.com/
@@ -333,8 +331,6 @@
       logo: https://www.google.com/s2/favicons?domain=it-ebooks.info&sz=64
       url: https://it-ebooks.info/
       description: ITe
-  - term: 电子书2
-    links:
     - title: comic
       logo: https://www.google.com/s2/favicons?domain=getcomics.org&sz=64
       url: https://getcomics.org/

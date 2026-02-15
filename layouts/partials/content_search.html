@@ -1,17 +1,7 @@
-<div class="header-big  post-top css-color mb-4" id="search-bg" style="">
+<div class="header-big  post-top css-img mb-4" id="search-bg">
     <div class="s-search">
         <div id="search" class="s-search mx-auto">
-            <div id="search-list-menu" class="hide-type-list">
-                <div class="s-type text-center">
-                    <div class="s-type-list big">
-                        <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
-                        <label for="type-bing"   data-id="group-a"><span>常用</span></label>
-                        <label for="type-google1"  data-id="group-b"><span>搜索</span></label>
-                    </div>
-                </div>
-            </div>
-
-            <form action="https://www.bing.com/search?q=" method="get" target="_blank" class="super-search-fm">
+            <form action="https://www.google.com/search?q=" method="get" target="_blank" class="super-search-fm">
                 <input type="text" id="search-text" class="form-control smart-tips search-key" 
                     zhannei="" placeholder="输入关键字搜索" style="outline:0" autocomplete="off">
                 <button class="submit" type="submit"><i class="iconfont icon-search"></i></button>
@@ -21,44 +11,22 @@
                 <div class="search-group group-a">
                     <ul class="search-type">
                         <li><input hidden="" type="radio" name="type" checked="checked"
-                                id="type-bing"
-                                value="https://www.bing.com/search?q=" 
-                                data-placeholder="微软 Bing 搜索">
-			    <label for="type-bing"><span class="text-muted">Bing</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type" 
                                 id="type-google"
                                 value="https://www.google.com/search?q=" 
                                 data-placeholder="谷歌搜索">
 			    <label for="type-google"><span class="text-muted">Google</span></label>
                         </li>
                         <li><input hidden="" type="radio" name="type" 
+                                id="type-bing"
+                                value="https://www.bing.com/search?q=" 
+                                data-placeholder="微软 Bing 搜索">
+			    <label for="type-bing"><span class="text-muted">Bing</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
                                 id="type-duckduckgo"
                                 value="https://duckduckgo.com/?q=" 
                                 data-placeholder="DuckDuckGo 搜索">
 			    <label for="type-duckduckgo"><span class="text-muted">DuckDuckGo</span></label>
-                        </li>
-                    </ul>
-                </div>
-                <div class="search-group group-b">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" 
-                                id="type-google1"
-                                value="https://www.google.com/search?q=" 
-                                data-placeholder="谷歌搜索">
-                            <label for="type-google1"><span class="text-muted">Google</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type" 
-                                id="type-bing1"
-                                value="https://www.bing.com/search?q=" 
-                                data-placeholder="微软 Bing 搜索">
-                            <label for="type-bing1"><span class="text-muted">Bing</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type" 
-                                id="type-duckduckgo1"
-                                value="https://duckduckgo.com/?q=" 
-                                data-placeholder="DuckDuckGo 搜索">
-                            <label for="type-duckduckgo1"><span class="text-muted">DuckDuckGo</span></label>
                         </li>
                     </ul>
                 </div>

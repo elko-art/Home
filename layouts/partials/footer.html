@@ -95,11 +95,11 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
     }
 })();
 //夜间(日间)模式切换
-$("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
+$("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageD }})");   //永久夜间模式 - 使用深色背景图
 function switchNightMode(){
     var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
     if(night == '0'){
-	$("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageL }})");
+	$("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageD }})");
         document.body.classList.remove('io-grey-mode');
         document.body.classList.add('io-black-mode');
         document.cookie = "night=1;path=/"

@@ -1,0 +1,30 @@
+# VSCode Local History
+.history/
+
+# Hugo
+public/
+resources/
+exampleSite/public/
+exampleSite/resources/
+exampleSite/themes/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PowerShell
+*.ps1~

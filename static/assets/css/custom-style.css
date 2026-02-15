@@ -41,6 +41,7 @@ body,html{font-size:14px;}
 
 /*搜索部分背景样式*/
 .header-big.css-color{background-size:unset;background-position:unset;animation:unset;}
+.header-big.css-img{background-size:cover !important;background-position:center center !important;background-repeat:no-repeat !important;}
 
 /*搜索热词样式调整*/
 .search-hot-text{
@@ -116,12 +117,12 @@ footer.main-footer .footer-text a:hover {
 
 /* 统一所有网站图标尺寸 - Google API自动生成64x64图标 */
 .url-img img {
-    width: 48px !important;
-    height: 48px !important;
+    width: 32px !important;  /* 缩小至32px */
+    height: 32px !important;
     object-fit: contain;  /* 保持比例，不裁剪 */
     background: #f8f9fa;  /* 浅色背景 */
-    border-radius: 12px;  /* 圆角 */
-    padding: 6px;         /* 内边距 */
+    border-radius: 8px;   /* 圆角 */
+    padding: 4px;         /* 内边距 */
 }
 
 /* 深色模式下的图标样式 */
@@ -132,17 +133,145 @@ footer.main-footer .footer-text a:hover {
 
 /* 确保图标容器统一 */
 .url-img {
-    width: 48px;
-    height: 48px;
-    min-width: 48px;
-    min-height: 48px;
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
 }
 
+/* ========== 密集布局优化 ========== */
 
+/* 减小卡片内边距 - 更紧凑 */
+.url-card .card-body {
+    padding: 0.35rem !important;  /* 进一步减小 */
+}
 
+/* 减小卡片底部间距 */
+.url-card .card.mb-4 {
+    margin-bottom: 0.5rem !important;  /* 进一步减小 */
+}
 
+/* 优化图标与文字间距 */
+.url-img.mr-2 {
+    margin-right: 0.4rem !important;  /* 减小图标右边距 */
+}
 
+/* 减小标题字体 */
+.url-info .text-sm strong {
+    font-size: 0.8rem;  /* 更小的标题 */
+}
 
+/* 减小描述字体 */
+.url-info .text-xs {
+    font-size: 0.65rem !important;  /* 更小的描述文字 */
+    line-height: 1.2;  /* 紧凑行高 */
+}
+
+/* 减小分类标题间距和字体 */
+.text-gray.text-lg.mb-4 {
+    margin-bottom: 0.5rem !important;
+    font-size: 1rem !important;  /* 减小分类标题字体 */
+}
+
+/* 行间距优化 */
+#content .row {
+    margin-left: -0.25rem;
+    margin-right: -0.25rem;
+}
+
+#content .row > [class*="col-"] {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+
+/* 响应式列数调整 - 增加密度 */
+@media (min-width: 576px) {
+    /* 小屏幕: 每行4列 */
+    .url-card.col-sm-4 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}
+
+@media (min-width: 768px) {
+    /* 中等屏幕: 每行5列 */
+    .url-card.col-md-3 {
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+
+@media (min-width: 992px) {
+    /* 大屏幕: 每行6列 */
+    .url-card.col-lg-3 {
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+}
+
+@media (min-width: 1200px) {
+    /* 超大屏幕: 每行7-8列 */
+    .url-card.col-xl-5a {
+        flex: 0 0 12.5%;
+        max-width: 12.5%;
+    }
+}
+
+@media (min-width: 1600px) {
+    /* 超超大屏幕: 每行10列 */
+    .url-card.col-xxl-6a {
+        flex: 0 0 10%;
+        max-width: 10%;
+    }
+}
+
+/* 卡片悬停效果优化 */
+.url-card .url-body:hover {
+    transform: translateY(-2px) !important;  /* 更轻微的悬停抬起 */
+}
+
+/* 减小"直达"按钮尺寸 */
+.url-card .togo {
+    font-size: 0.7rem;
+    padding: 0.15rem;
+}
+
+/* 优化卡片整体高度 */
+.url-card .card {
+    min-height: auto;
+}
+
+/* 减小标题行高 */
+.url-info .text-sm {
+    line-height: 1.3;
+}
+
+/* 移除多余的底部间距 */
+#content > br {
+    display: none;
+}
+
+/* URL内容区域优化 */
+.url-content {
+    gap: 0.4rem;  /* 减小图标和文字之间的间隙 */
+}
+
+/* 确保描述文字不占用过多空间 */
+.url-info p {
+    margin-bottom: 0 !important;
+    max-height: 1.2rem;  /* 限制描述高度 */
+    overflow: hidden;
+}
+
+/* 分类图标优化 */
+.site-tag {
+    font-size: 1rem !important;
+}
+
+/* 卡片圆角减小 */
+.url-card .card {
+    border-radius: 6px;  /* 更小的圆角 */
+}
 
 
 
