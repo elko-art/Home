@@ -1,4 +1,4 @@
-﻿# WebStack 导航数据 - 三页完整结构
+# WebStack 导航数据 - 三页完整结构
 
 - taxonomy: 第一页
   icon: fas fa-star fa-lg
@@ -6,229 +6,229 @@
   - term: 个人站
     links:
     - title: ELKO
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
       url: https://elko-utopia.github.io/Creation_notes/
       description: ""
     - title: peter
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
       url: https://peterlogic1.github.io/
       description: ""
     - title: stevenroberson
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
       url: https://www.stevenroberson.com/
       description: ""
     - title: sync
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=174.56.175.41&sz=64
       url: http://174.56.175.41:9000/
       description: ""
     - title: Quartz 4
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=quartz.jzhao.xyz&sz=64
       url: https://quartz.jzhao.xyz/
       description: ""
   - term: 站主工具
     links:
     - title: 分析工具
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
       url: https://pagespeed.web.dev/analysis/
       description: ""
     - title: buttondown
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=buttondown.com&sz=64
       url: https://buttondown.com/home
       description: ""
     - title: bing
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
       url: https://www.bing.com/webmasters?tid=ba077421-af65-48d6-8e41-00c6ba62f51c
       description: ""
     - title: google
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
       url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/Creation_notes/
       description: ""
     - title: deepseek api
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
       url: https://platform.deepseek.com/usage
       description: ""
   - term: 海外
     links:
     - title: youtube
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
       url: https://www.youtube.com/
       description: ""
     - title: ins
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=instagram.com&sz=64
       url: https://www.instagram.com/#reactivated
       description: ""
     - title: Discord
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=discord.com&sz=64
       url: https://discord.com/
       description: ""
     - title: pixiv
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=pixiv.net&sz=64
       url: https://www.pixiv.net/?lang=zh
       description: ""
     - title: GITHUB
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       url: https://github.com/
       description: ""
     - title: padlet
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=padlet.com&sz=64
       url: https://padlet.com/
       description: ""
   - term: 老钟网站
     links:
     - title: B站
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
       url: https://search.bilibili.com/all
       description: ""
     - title: 幕布
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=mubu.com&sz=64
       url: https://mubu.com/explore
       description: ""
     - title: 豆包语音
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=console.volcengine.com&sz=64
       url: https://console.volcengine.com/speech/service/10039?AppID=7563058102
       description: ""
   - term: 学校
     links:
     - title: SCAD
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
       url: https://my.scad.edu/uPortal/f/Home/normal/render.uP
       description: ""
     - title: BB
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/ultra/institution-page
       description: ""
     - title: ELO
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=app.scad.edu&sz=64
       url: https://app.scad.edu/workshops/
       description: ""
     - title: 课程
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
       url: https://www.scad.edu/academics/programs/animation/degrees/bfa
       description: ""
     - title: isso
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=depts.scad.edu&sz=64
       url: http://depts.scad.edu/isso
       description: ""
     - title: 12twenty
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=scad.12twenty.com&sz=64
       url: https://scad.12twenty.com/
       description: ""
   - term: 学校作业
     links:
     - title: esl5
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=learn.eltngl.com&sz=64
       url: https://learn.eltngl.com/dashboard/courses
       description: ""
     - title: scad志愿者
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=scad.galaxydigital.com&sz=64
       url: https://scad.galaxydigital.com/
       description: ""
     - title: vidu
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=vidu.com&sz=64
       url: https://www.vidu.com/home/recommend
       description: ""
     - title: badge
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=credly.com&sz=64
       url: https://www.credly.com/organizations/savannah-college-of-art-design/badges
       description: ""
     - title: linkdln
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=linkedin.com&sz=64
       url: https://www.linkedin.com/feed/
       description: ""
     - title: speechace
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
       url: https://www.speechace.com/
       description: ""
   - term: 绘画
     links:
     - title: Pinterest
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
       url: https://www.pinterest.com/
       description: ""
   - term: 英语
     links:
     - title: google
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
       url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
       description: ""
     - title: 剑桥
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=dictionary.cambridge.org&sz=64
       url: https://dictionary.cambridge.org/zhs/
       description: ""
     - title: 默默
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=maimemo.com&sz=64
       url: https://www.maimemo.com/
       description: ""
     - title: 有道
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
       url: https://fanyi.youdao.com/indexLLM.html#/TextTranslate
       description: ""
   - term: 技术
     links:
     - title: 面具
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=magiskcn.com&sz=64
       url: https://magiskcn.com/
       description: ""
     - title: 单位换算
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=cn.unithelper.com&sz=64
       url: https://cn.unithelper.com/data-storage/
       description: ""
     - title: qiucker
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
       url: https://getquicker.net/Share
       description: ""
     - title: 兽音译者
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=roar.iiilab.com&sz=64
       url: https://roar.iiilab.com/
       description: ""
     - title: PS快捷键
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=cheat-sheet.cn&sz=64
       url: https://www.cheat-sheet.cn/post/photoshop-keyboard-shortcuts/
       description: ""
   - term: AI
     links:
     - title: AI语言模型
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
       url: https://huggingface.co/
       description: ""
     - title: AI角色卡
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=chub.ai&sz=64
       url: https://www.chub.ai/
       description: ""
     - title: ai查重
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
       url: https://www.zerogpt.com/
       description: ""
     - title: GPT
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
       url: https://chatgpt.com/
       description: ""
     - title: gemini
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       url: https://gemini.google.com/
       description: ""
     - title: notebookLM
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
       description: ""
   - term: 游戏
     links:
     - title: 蔚蓝202榜单
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
       url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
       description: ""
     - title: 蔚蓝喵服
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
       url: https://celeste.centralteam.cn/
       description: ""
     - title: MC 种子
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
       url: https://www.chunkbase.com/
       description: ""
   - term: 恶意查杀
     links:
     - title: virS
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=virscan.org&sz=64
       url: https://www.virscan.org/
       description: ""
 
@@ -238,149 +238,149 @@
   - term: 综合
     links:
     - title: 海盗湾
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=thepiratebay.org&sz=64
       url: https://thepiratebay.org/
       description: 海盗湾
     - title: rutracker
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=rutracker.org&sz=64
       url: https://rutracker.org/
       description: rutracker
     - title: 博客园
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=cnblogs.com&sz=64
       url: https://www.cnblogs.com/
       description: 博客园
     - title: 52破解
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=52pojie.org&sz=64
       url: https://www.52pojie.org/forum-2-1.html
       description: 52破解
     - title: 图欧资源站
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=tuostudy.upnb.top&sz=64
       url: https://tuostudy.upnb.top/
       description: 图欧资源站
   - term: 扒视频
     links:
     - title: 油管
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=youtube.iiilab.com&sz=64
       url: https://youtube.iiilab.com/
       description: 油管
     - title: 油管字幕
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=downsub.com&sz=64
       url: https://downsub.com/
       description: 油管字幕
     - title: 推特视频下载
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=xdown.app&sz=64
       url: https://xdown.app/zh-cn
       description: 推特视频下载
   - term: 软件
     links:
     - title: 羽图
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=yutu.cn&sz=64
       url: https://www.yutu.cn/
       description: 羽图
     - title: sai
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=sai.piv.ink&sz=64
       url: https://sai.piv.ink/#download
       description: sai
     - title: 百分之千
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=gitee.com&sz=64
       url: https://gitee.com/ww3w/dzb/blob/master/dzb.md
       description: 百分之千
     - title: 谷歌版
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=firepx.com&sz=64
       url: https://www.firepx.com/app/
       description: 谷歌版
     - title: 蓝鲨
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=lsapk.com&sz=64
       url: http://www.lsapk.com/
       description: 蓝鲨
     - title: sourceforge
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=sourceforge.net&sz=64
       url: https://sourceforge.net/
       description: sourceforge
   - term: 软件2
     links:
     - title: 易破解
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=ypojie.com&sz=64
       url: https://www.ypojie.com/
       description: 易破解
     - title: sordum
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=sordum.org&sz=64
       url: https://www.sordum.org/
       description: sordum
   - term: 电子书
     links:
     - title: 国内电子书
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=jiumodiary.com&sz=64
       url: https://www.jiumodiary.com/
       description: 国内电子书
     - title: yumpu
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=yumpu.com&sz=64
       url: https://www.yumpu.com/en
       description: yumpu
     - title: kupdf
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=kupdf.net&sz=64
       url: https://kupdf.net/
       description: kupdf
     - title: 安娜档案
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=annas-archive.org&sz=64
       url: https://annas-archive.org/
       description: 安娜档案
     - title: 互联网档案
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=archive.org&sz=64
       url: https://archive.org/
       description: 互联网档案
     - title: ITe
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=it-ebooks.info&sz=64
       url: https://it-ebooks.info/
       description: ITe
   - term: 电子书2
     links:
     - title: comic
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=getcomics.org&sz=64
       url: https://getcomics.org/
       description: comic
   - term: 网盘
     links:
     - title: 千帆
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=pan.qianfan.app&sz=64
       url: https://pan.qianfan.app/
       description: 千帆
     - title: 阿里云盘
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=alipansou.com&sz=64
       url: https://www.alipansou.com/
       description: 阿里云盘
   - term: 音乐
     links:
     - title: 原声带
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=sittingonclouds.net&sz=64
       url: https://sittingonclouds.net/
       description: 原声带
     - title: lazy midi
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
       description: lazy midi
   - term: 游戏
     links:
     - title: 修改版游戏
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=androeed.store&sz=64
       url: https://androeed.store/
       description: 修改版游戏
     - title: mody
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=apkmody.com&sz=64
       url: https://apkmody.com/
       description: mody
     - title: lite
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=liteapks.com&sz=64
       url: https://liteapks.com/
       description: lite
     - title: pb汉化组
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=pbteam.cn&sz=64
       url: https://pbteam.cn/
       description: pb汉化组
   - term: 神秘小网站
     links:
     - title: ？
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
       url: https://rule34.paheal.net/
       description: ？
 
@@ -390,10 +390,10 @@
   - term: 就业
     links:
     - title: my visa job
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=myvisajobs.com&sz=64
       url: https://www.myvisajobs.com/
       description: my visa job
     - title: migratemate
-      logo: default.webp
+      logo: https://www.google.com/s2/favicons?domain=migratemate.co&sz=64
       url: https://migratemate.co/
       description: migratemate
