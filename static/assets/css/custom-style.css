@@ -1,10 +1,10 @@
 /*调整全局字体大小*/
 body,html{font-size:14px;}
 
-/*左导航悬浮sidebar-menu-inner宽度调整为90px*/
-.sidebar-popup.sidebar-menu-inner > div > ul > li.sidebar-item>ul{position:absolute;top:0px;left:10px;width:90px;z-index:99}
-.sidebar-popup.sidebar-menu-inner ul{width:90px}
-.sidebar-popup.sidebar-menu-inner ul li{width:90px}
+/*左导航悬浮sidebar-menu-inner宽度调整*/
+.sidebar-popup.sidebar-menu-inner > div > ul > li.sidebar-item>ul{position:absolute;top:0px;left:10px;width:200px;z-index:99}
+.sidebar-popup.sidebar-menu-inner ul{width:200px}
+.sidebar-popup.sidebar-menu-inner ul li{width:200px}
 
 /*隐藏左导航scrollbar*/
 .sidebar-menu.flex-fill::-webkit-scrollbar{display:none}
@@ -34,7 +34,16 @@ body,html{font-size:14px;}
 .post-top{padding-bottom:50px}
 
 /*左导航二级导航标题左侧距离*/
-.sidebar-menu-inner ul li ul li a{margin-left:30px;}
+.sidebar-menu-inner ul li ul li {
+    width: 100%;
+}
+.sidebar-menu-inner ul li ul li a {
+    margin-left: 0;
+    padding-left: 30px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
 
 /*头部导航二级导航iconfont图标*/
 .navbar-collapse ul li.menu-item-has-children:after{content:'\e612';}
@@ -273,7 +282,40 @@ footer.main-footer .footer-text a:hover {
     border-radius: 6px;  /* 更小的圆角 */
 }
 
+/* 三个大分类的背景颜色 */
+.taxonomy-section {
+    padding: 20px 30px;
+    margin: 0 -30px 20px -30px;
+    border-radius: 8px;
+}
 
+/* 大分类标题样式 */
+.taxonomy-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    letter-spacing: 0.5px;
+}
 
+.taxonomy-title i {
+    opacity: 0.5;
+    font-size: 1rem;
+}
 
+.taxonomy-1 {
+    background-color: rgba(0, 0, 0, 0.4);  /* 深灰 - 第一页:常用&个人网站 */
+}
+
+.taxonomy-2 {
+    background-color: rgba(0, 0, 0, 0.15);  /* 浅灰 - 第二页:学习&工作 */
+}
+
+.taxonomy-3 {
+    background-color: rgba(0, 0, 0, 0.4);  /* 深灰 - 第三页:资源 */
+}
+
+.taxonomy-4 {
+    background-color: rgba(0, 0, 0, 0.15);  /* 浅灰 - 第四页:娱乐 */
+}
 

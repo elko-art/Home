@@ -1,23 +1,13 @@
-# WebStack 导航数据 - 四页完整结构
+# WebStack 导航数据 - 三页完整结构
 
 - taxonomy: 第一页:常用&个人网站
   icon: fas fa-star fa-lg
   list:
-  - term: 常用
-    links:
-    - title: B站
-      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
-      url: https://search.bilibili.com/all
-      description: ""
   - term: 个人站
     links:
     - title: ELKO
       logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
       url: https://elko-utopia.github.io/Creation_notes/
-      description: ""
-    - title: sync
-      logo: https://www.google.com/s2/favicons?domain=174.56.175.41&sz=64
-      url: http://174.56.175.41:9000/
       description: ""
     - title: peter
       logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
@@ -27,33 +17,27 @@
       logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
       url: https://www.stevenroberson.com/
       description: ""
-    - title: zezhouchen
-      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
-      url: https://zezhouchen.com/
+    - title: sync
+      logo: https://www.google.com/s2/favicons?domain=174.56.175.41&sz=64
+      url: http://174.56.175.41:9000/
       description: ""
-  - term: 建站工具
-    links:
     - title: Quartz 4
       logo: https://www.google.com/s2/favicons?domain=quartz.jzhao.xyz&sz=64
       url: https://quartz.jzhao.xyz/
       description: ""
-    - title: GITHUB
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-      url: https://github.com/
-      description: ""
-    - title: buttondown
-      logo: https://www.google.com/s2/favicons?domain=buttondown.com&sz=64
-      url: https://buttondown.com/home
-      description: ""
-    - title: WebStack Hugo
-      logo: https://www.google.com/s2/favicons?domain=webstack-hugo.weiyan.cc&sz=64
-      url: https://webstack-hugo.weiyan.cc/
+    - title: zezhouchen
+      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
+      url: https://zezhouchen.com/
       description: ""
   - term: 站主工具
     links:
     - title: 分析工具
       logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
       url: https://pagespeed.web.dev/analysis/
+      description: ""
+    - title: buttondown
+      logo: https://www.google.com/s2/favicons?domain=buttondown.com&sz=64
+      url: https://buttondown.com/home
       description: ""
     - title: bing
       logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
@@ -85,16 +69,20 @@
       logo: https://www.google.com/s2/favicons?domain=pixiv.net&sz=64
       url: https://www.pixiv.net/?lang=zh
       description: ""
+    - title: GITHUB
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/
+      description: ""
     - title: padlet
       logo: https://www.google.com/s2/favicons?domain=padlet.com&sz=64
       url: https://padlet.com/
       description: ""
-    - title: Pinterest
-      logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
-      url: https://www.pinterest.com/
-      description: ""
   - term: 老钟网站
     links:
+    - title: B站
+      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
+      url: https://search.bilibili.com/all
+      description: ""
     - title: 幕布
       logo: https://www.google.com/s2/favicons?domain=mubu.com&sz=64
       url: https://mubu.com/explore
@@ -103,10 +91,6 @@
       logo: https://www.google.com/s2/favicons?domain=console.volcengine.com&sz=64
       url: https://console.volcengine.com/speech/service/10039?AppID=7563058102
       description: ""
-
-- taxonomy: 第二页:学习&工作
-  icon: fas fa-book fa-lg
-  list:
   - term: 学校
     links:
     - title: SCAD
@@ -155,6 +139,12 @@
       logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
       url: https://www.speechace.com/
       description: ""
+  - term: 绘画
+    links:
+    - title: Pinterest
+      logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
+      url: https://www.pinterest.com/
+      description: ""
   - term: 英语
     links:
     - title: google
@@ -195,10 +185,6 @@
       logo: https://www.google.com/s2/favicons?domain=cheat-sheet.cn&sz=64
       url: https://www.cheat-sheet.cn/post/photoshop-keyboard-shortcuts/
       description: ""
-    - title: virS
-      logo: https://www.google.com/s2/favicons?domain=virscan.org&sz=64
-      url: https://www.virscan.org/
-      description: ""
   - term: AI
     links:
     - title: vidu
@@ -229,18 +215,28 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
       description: ""
-  - term: 就业
+  - term: 游戏
     links:
-    - title: my visa job
-      logo: https://www.google.com/s2/favicons?domain=myvisajobs.com&sz=64
-      url: https://www.myvisajobs.com/
-      description: my visa job
-    - title: migratemate
-      logo: https://www.google.com/s2/favicons?domain=migratemate.co&sz=64
-      url: https://migratemate.co/
-      description: migratemate
+    - title: 蔚蓝202榜单
+      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
+      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
+      description: ""
+    - title: 蔚蓝喵服
+      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
+      url: https://celeste.centralteam.cn/
+      description: ""
+    - title: MC 种子
+      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
+      url: https://www.chunkbase.com/
+      description: ""
+  - term: 恶意查杀
+    links:
+    - title: virS
+      logo: https://www.google.com/s2/favicons?domain=virscan.org&sz=64
+      url: https://www.virscan.org/
+      description: ""
 
-- taxonomy: 第三页:资源
+- taxonomy: 第二页:资源
   icon: fas fa-download fa-lg
   list:
   - term: 综合
@@ -343,58 +339,6 @@
       logo: https://www.google.com/s2/favicons?domain=getcomics.org&sz=64
       url: https://getcomics.org/
       description: comic
-  - term: 图标
-    links:
-    - title: iconfinder
-      logo: https://www.google.com/s2/favicons?domain=iconfinder.com&sz=64
-      url: https://www.iconfinder.com/
-      description: ""
-    - title: iconfont
-      logo: https://www.google.com/s2/favicons?domain=iconfont.cn&sz=64
-      url: http://www.iconfont.cn/
-      description: ""
-    - title: ionicons
-      logo: https://www.google.com/s2/favicons?domain=ionicons.com&sz=64
-      url: http://ionicons.com/
-      description: ""
-    - title: iconmonstr
-      logo: https://www.google.com/s2/favicons?domain=iconmonstr.com&sz=64
-      url: https://iconmonstr.com/
-      description: ""
-  - term: 壁纸
-    links:
-    - title: Unsplash
-      logo: https://www.google.com/s2/favicons?domain=unsplash.com&sz=64
-      url: https://unsplash.com/
-      description: 超高清摄影壁纸
-    - title: Pexels
-      logo: https://www.google.com/s2/favicons?domain=pexels.com&sz=64
-      url: https://www.pexels.com/
-      description: 免费高质量图片
-    - title: Wallhaven
-      logo: https://www.google.com/s2/favicons?domain=wallhaven.cc&sz=64
-      url: https://wallhaven.cc/
-      description: 专业壁纸网站
-    - title: Pixabay
-      logo: https://www.google.com/s2/favicons?domain=pixabay.com&sz=64
-      url: https://pixabay.com/
-      description: 免费图片库
-    - title: WallpapersCraft
-      logo: https://www.google.com/s2/favicons?domain=wallpaperscraft.com&sz=64
-      url: https://wallpaperscraft.com/
-      description: 高清壁纸
-    - title: InterfaceLIFT
-      logo: https://www.google.com/s2/favicons?domain=interfacelift.com&sz=64
-      url: https://interfacelift.com/wallpaper/downloads/
-      description: 精选高质量壁纸
-    - title: Simple Desktops
-      logo: https://www.google.com/s2/favicons?domain=simpledesktops.com&sz=64
-      url: http://simpledesktops.com/
-      description: 简约风格壁纸
-    - title: Alphacoders
-      logo: https://www.google.com/s2/favicons?domain=wall.alphacoders.com&sz=64
-      url: https://wall.alphacoders.com/
-      description: 动漫游戏壁纸
   - term: 网盘
     links:
     - title: 千帆
@@ -433,46 +377,6 @@
       logo: https://www.google.com/s2/favicons?domain=pbteam.cn&sz=64
       url: https://pbteam.cn/
       description: pb汉化组
-    - title: Switch520
-      logo: https://www.google.com/s2/favicons?domain=gamer520.com&sz=64
-      url: https://www.gamer520.com/
-      description: Switch游戏资源
-    - title: flysheep资源避难所
-      logo: https://www.google.com/s2/favicons?domain=flysheep6.com&sz=64
-      url: https://www.flysheep6.com/
-      description: 游戏资源
-    - title: 我的世界国际版全版本下载
-      logo: https://www.google.com/s2/favicons?domain=ifun.cool&sz=64
-      url: https://www.ifun.cool/
-      description: Minecraft资源
-    - title: GBA游戏下载_GBA模拟器_GBA游戏攻略_GBA游戏资源
-      logo: https://www.google.com/s2/favicons?domain=gbarom.cn&sz=64
-      url: http://www.gbarom.cn/
-      description: GBA游戏资源
-    - title: MC APKS
-      logo: https://www.google.com/s2/favicons?domain=mcapks.net&sz=64
-      url: https://mcapks.net/
-      description: Minecraft APK资源
-    - title: yuzu手机版游戏运行结果统计
-      logo: https://www.google.com/s2/favicons?domain=yzyk.xyz&sz=64
-      url: https://www.yzyk.xyz/
-      description: yuzu模拟器游戏兼容性统计
-    - title: n64游戏下载
-      logo: https://www.google.com/s2/favicons?domain=66game.cn&sz=64
-      url: https://www.66game.cn/jiajiyouxi/N64jiajiyouxi/
-      description: n64中文游戏下载 经典n64模拟器游戏
-    - title: 26VV
-      logo: https://www.google.com/s2/favicons?domain=26vv.com&sz=64
-      url: https://26vv.com/
-      description: 一个自由分享与下载经典游戏和怀旧游戏的部落
-    - title: 小鱼资源库
-      logo: https://www.google.com/s2/favicons?domain=ksite.cn&sz=64
-      url: https://www.ksite.cn/categories/%E6%B8%B8%E6%88%8F/
-      description: 免费单机游戏下载站免费游戏资源下载站
-    - title: 咕咕游击队
-      logo: https://www.google.com/s2/favicons?domain=vlink.cc&sz=64
-      url: https://vlink.cc/ggyjd
-      description: 游戏资源分享
   - term: 神秘小网站
     links:
     - title: ？
@@ -480,26 +384,16 @@
       url: https://rule34.paheal.net/
       description: ？
 
-- taxonomy: 第四页:娱乐
-  icon: fas fa-gamepad fa-lg
+- taxonomy: 第三页:工作&学习
+  icon: fas fa-folder-open fa-lg
   list:
-  - term: 绘画
+  - term: 就业
     links:
-    - title: Pinterest
-      logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
-      url: https://www.pinterest.com/
-      description: ""
-  - term: 游戏
-    links:
-    - title: 蔚蓝202榜单
-      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
-      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
-      description: ""
-    - title: 蔚蓝喵服
-      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
-      url: https://celeste.centralteam.cn/
-      description: ""
-    - title: MC 种子
-      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
-      url: https://www.chunkbase.com/
-      description: ""
+    - title: my visa job
+      logo: https://www.google.com/s2/favicons?domain=myvisajobs.com&sz=64
+      url: https://www.myvisajobs.com/
+      description: my visa job
+    - title: migratemate
+      logo: https://www.google.com/s2/favicons?domain=migratemate.co&sz=64
+      url: https://migratemate.co/
+      description: migratemate
