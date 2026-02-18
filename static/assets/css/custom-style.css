@@ -30,8 +30,9 @@ body,html{font-size:14px;}
 .header-big:not(.no-bg) .s-type-list{color:#20c997}
 .header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#ffffff!important}
 
-/*主页header-banner底部宽度*/
-.post-top{padding-bottom:50px}
+/*主页header-banner间距调整*/
+.header-big{margin-top:-55px}
+.post-top{padding-bottom:20px}
 
 /*左导航二级导航标题左侧距离*/
 .sidebar-menu-inner ul li ul li {
@@ -287,6 +288,11 @@ footer.main-footer .footer-text a:hover {
     padding: 20px 30px;
     margin: 0 -30px 20px -30px;
     border-radius: 8px;
+}
+
+/* 第一个大分类去除顶部多余间距 */
+.taxonomy-section:first-of-type {
+    margin-top: 0px;
 }
 
 /* 大分类标题样式 */

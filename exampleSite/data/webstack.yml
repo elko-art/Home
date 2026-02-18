@@ -9,6 +9,34 @@
       logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
       url: https://search.bilibili.com/all
       description: ""
+    - title: 谷歌翻译
+      logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
+      url: https://translate.google.com/
+      description: ""
+    - title: 有道翻译
+      logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
+      url: https://fanyi.youdao.com/
+      description: ""
+    - title: SCAD
+      logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
+      url: https://www.scad.edu/
+      description: ""
+    - title: Blackboard
+      logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
+      url: https://scad.blackboard.com/
+      description: ""
+    - title: GPT
+      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
+      url: https://chatgpt.com/
+      description: ""
+    - title: gemini
+      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
+      url: https://gemini.google.com/
+      description: ""
+    - title: notebookLM
+      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
+      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
+      description: ""
   - term: 个人站
     links:
     - title: ELKO
