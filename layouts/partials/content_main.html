@@ -1,11 +1,6 @@
 <div id="content" class="content-site customize-site">
     {{ range $index, $element := .Site.Data.webstack }}
         <div class="taxonomy-section taxonomy-{{ add $index 1 }}">
-        <!-- 大分类标题 -->
-        <h2 class="taxonomy-title">
-            <i class="{{ .icon }} mr-2"></i>
-            {{ .taxonomy }}
-        </h2>
         {{ if .list }}
             {{ range .list }}
 	    <!--正文网址导航--》
