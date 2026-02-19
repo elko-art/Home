@@ -227,6 +227,10 @@
       logo: https://www.google.com/s2/favicons?domain=virscan.org&sz=64
       url: https://www.virscan.org/
       description: ""
+    - title: 三星优化完全指南
+      logo: https://www.google.com/s2/favicons?domain=radishzz.cc&sz=64
+      url: https://radishzz.cc/posts/384776b2/
+      description: 三星手机优化教程
   - term: AI
     links:
     - title: vidu
@@ -341,6 +345,14 @@
       logo: https://www.google.com/s2/favicons?domain=sordum.org&sz=64
       url: https://www.sordum.org/
       description: sordum
+    - title: PortableApps
+      logo: https://www.google.com/s2/favicons?domain=portableapps.com&sz=64
+      url: https://portableapps.com/
+      description: 便携式软件
+    - title: 念念资料库
+      logo: https://www.google.com/s2/favicons?domain=niannz.com&sz=64
+      url: https://www.niannz.com/
+      description: 软件资源分享
   - term: 电子书
     links:
     - title: 国内电子书
@@ -391,6 +403,34 @@
       description: ""
   - term: 壁纸
     links:
+    - title: 壁纸汇
+      logo: https://www.google.com/s2/favicons?domain=bizhihui.com&sz=64
+      url: https://www.bizhihui.com/tags/4Kbizhi/
+      description: 4K高清壁纸
+    - title: Wallpaper Cave
+      logo: https://www.google.com/s2/favicons?domain=wallpapercave.com&sz=64
+      url: https://wallpapercave.com/
+      description: 海量壁纸资源
+    - title: I Like Wallpaper
+      logo: https://www.google.com/s2/favicons?domain=ilikewallpaper.net&sz=64
+      url: https://www.ilikewallpaper.net/dark-iphone-wallpapers/8
+      description: iPhone深色壁纸
+    - title: Wallpaper Access
+      logo: https://www.google.com/s2/favicons?domain=wallpaperaccess.com&sz=64
+      url: https://wallpaperaccess.com/
+      description: 高质量壁纸下载
+    - title: 10wallpaper
+      logo: https://www.google.com/s2/favicons?domain=10wallpaper.com&sz=64
+      url: https://www.10wallpaper.com/
+      description: 精品壁纸合集
+    - title: Wallroom
+      logo: https://www.google.com/s2/favicons?domain=wallroom.io&sz=64
+      url: https://wallroom.io/
+      description: 创意壁纸社区
+    - title: Alphacoders
+      logo: https://www.google.com/s2/favicons?domain=wall.alphacoders.com&sz=64
+      url: https://wall.alphacoders.com/
+      description: 动漫游戏壁纸
     - title: Unsplash
       logo: https://www.google.com/s2/favicons?domain=unsplash.com&sz=64
       url: https://unsplash.com/
@@ -419,10 +459,6 @@
       logo: https://www.google.com/s2/favicons?domain=simpledesktops.com&sz=64
       url: http://simpledesktops.com/
       description: 简约风格壁纸
-    - title: Alphacoders
-      logo: https://www.google.com/s2/favicons?domain=wall.alphacoders.com&sz=64
-      url: https://wall.alphacoders.com/
-      description: 动漫游戏壁纸
   - term: 网盘
     links:
     - title: 千帆
@@ -501,6 +537,10 @@
       logo: https://www.google.com/s2/favicons?domain=vlink.cc&sz=64
       url: https://vlink.cc/ggyjd
       description: 游戏资源分享
+    - title: NS中文网
+      logo: https://www.google.com/s2/favicons?domain=ns211.com&sz=64
+      url: https://www.ns211.com/
+      description: Switch游戏资源站
   - term: 神秘小网站
     links:
     - title: ？
@@ -511,12 +551,6 @@
 - taxonomy: 第四页:娱乐
   icon: fas fa-gamepad fa-lg
   list:
-  - term: 绘画
-    links:
-    - title: Pinterest
-      logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
-      url: https://www.pinterest.com/
-      description: ""
   - term: 游戏
     links:
     - title: 蔚蓝202榜单
