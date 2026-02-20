@@ -235,6 +235,10 @@
       logo: https://www.google.com/s2/favicons?domain=radishzz.cc&sz=64
       url: https://radishzz.cc/posts/384776b2/
       description: 三星手机优化教程
+    - title: Markdown教程
+      logo: https://www.google.com/s2/favicons?domain=markdown.com.cn&sz=64
+      url: https://markdown.com.cn/basic-syntax/
+      description: Markdown基础语法教程
   - term: AI
     links:
     - title: vidu
