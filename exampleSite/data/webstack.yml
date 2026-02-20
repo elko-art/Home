@@ -161,6 +161,10 @@
       logo: https://www.google.com/s2/favicons?domain=scad.12twenty.com&sz=64
       url: https://scad.12twenty.com/
       description: ""
+    - title: Rate My Professors
+      logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
+      url: https://www.ratemyprofessors.com/
+      description: 教授评价网站
   - term: 学校作业
     links:
     - title: esl5
