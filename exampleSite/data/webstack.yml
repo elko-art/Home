@@ -8,129 +8,133 @@
     - title: B站
       logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
       url: https://search.bilibili.com/all
-      description: ""
+      description: "中国知名弹幕视频网站"
     - title: 谷歌翻译
       logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
       url: https://translate.google.com/
-      description: ""
+      description: "谷歌官方在线翻译工具"
     - title: 有道翻译
       logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
       url: https://fanyi.youdao.com/
-      description: ""
+      description: "有道出品的翻译服务"
     - title: SCAD
       logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
       url: https://www.scad.edu/
-      description: ""
+      description: "萨凡纳艺术与设计学院官网"
     - title: Blackboard
       logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/
-      description: ""
+      description: "SCAD在线教学平台"
     - title: GPT
       logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
       url: https://chatgpt.com/
-      description: ""
+      description: "OpenAI推出的AI聊天工具"
     - title: gemini
       logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       url: https://gemini.google.com/
-      description: ""
+      description: "谷歌AI大模型对话平台"
     - title: notebookLM
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
-      description: ""
+      description: "谷歌AI笔记与知识管理工具"
   - term: 个人站
     links:
     - title: ELKO
       logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
       url: https://elko-utopia.github.io/Creation_notes/
-      description: ""
+      description: "个人创作与笔记分享站"
     - title: sync
-      logo: https://www.google.com/s2/favicons?domain=174.56.175.41&sz=64
+      logo: /assets/images/default.png
       url: http://174.56.175.41:9000/
-      description: ""
+      description: "个人同步与文件管理站点"
     - title: peter
       logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
       url: https://peterlogic1.github.io/
-      description: ""
+      description: "个人主页与项目展示"
     - title: stevenroberson
       logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
       url: https://www.stevenroberson.com/
-      description: ""
+      description: "个人博客与作品集"
     - title: zezhouchen
       logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
       url: https://zezhouchen.com/
-      description: ""
+      description: "个人主页与技术分享"
+    - title: 酒馆
+      logo: /assets/images/default.png
+      url: http://10.0.0.2:8000/
+      description: "角色扮演AI酒馆目录"
   - term: 建站工具
     links:
     - title: Quartz 4
       logo: https://www.google.com/s2/favicons?domain=quartz.jzhao.xyz&sz=64
       url: https://quartz.jzhao.xyz/
-      description: ""
+      description: "开源静态网站生成器"
     - title: GITHUB
       logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       url: https://github.com/
-      description: ""
+      description: "全球最大开源代码托管平台"
     - title: buttondown
       logo: https://www.google.com/s2/favicons?domain=buttondown.com&sz=64
       url: https://buttondown.com/home
-      description: ""
+      description: "简洁的邮件订阅与发送服务"
     - title: WebStack Hugo
       logo: https://www.google.com/s2/favicons?domain=webstack-hugo.weiyan.cc&sz=64
       url: https://webstack-hugo.weiyan.cc/
-      description: ""
+      description: "Hugo主题的导航站模板"
   - term: 站主工具
     links:
     - title: 分析工具
       logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
       url: https://pagespeed.web.dev/analysis/
-      description: ""
+      description: "谷歌网站性能分析工具"
     - title: bing
       logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
       url: https://www.bing.com/webmasters?tid=ba077421-af65-48d6-8e41-00c6ba62f51c
-      description: ""
+      description: "微软搜索引擎站长工具"
     - title: google
       logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
       url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/Creation_notes/
-      description: ""
+      description: "谷歌站长平台"
     - title: deepseek api
       logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
       url: https://platform.deepseek.com/usage
-      description: ""
+      description: "AI大模型API管理平台"
   - term: 海外
     links:
     - title: youtube
       logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
       url: https://www.youtube.com/
-      description: ""
+      description: "全球最大视频分享平台"
     - title: ins
       logo: https://www.google.com/s2/favicons?domain=instagram.com&sz=64
       url: https://www.instagram.com/#reactivated
-      description: ""
+      description: "图片与短视频社交平台"
     - title: Discord
       logo: https://www.google.com/s2/favicons?domain=discord.com&sz=64
       url: https://discord.com/
-      description: ""
+      description: "全球流行的语音与社区平台"
     - title: pixiv
       logo: https://www.google.com/s2/favicons?domain=pixiv.net&sz=64
       url: https://www.pixiv.net/?lang=zh
-      description: ""
+      description: "日本知名插画与同人社区"
     - title: padlet
       logo: https://www.google.com/s2/favicons?domain=padlet.com&sz=64
       url: https://padlet.com/
-      description: ""
+      description: "在线协作白板工具"
     - title: Pinterest
       logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
       url: https://www.pinterest.com/
-      description: ""
+      description: "图片灵感收集与分享平台"
   - term: 老钟网站
     links:
     - title: 幕布
       logo: https://www.google.com/s2/favicons?domain=mubu.com&sz=64
       url: https://mubu.com/explore
-      description: ""
+      description: "结构化思维导图工具"
     - title: 豆包语音
       logo: https://www.google.com/s2/favicons?domain=console.volcengine.com&sz=64
       url: https://console.volcengine.com/speech/service/10039?AppID=7563058102
-      description: ""
+      description: "AI语音合成与识别服务"
 
 - taxonomy: 第二页:学习&工作
   icon: fas fa-book fa-lg
@@ -140,27 +144,27 @@
     - title: SCAD
       logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
       url: https://my.scad.edu/uPortal/f/Home/normal/render.uP
-      description: ""
+      description: "SCAD学生门户"
     - title: BB
       logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/ultra/institution-page
-      description: ""
+      description: "SCAD在线课程平台"
     - title: ELO
       logo: https://www.google.com/s2/favicons?domain=app.scad.edu&sz=64
       url: https://app.scad.edu/workshops/
-      description: ""
+      description: "SCAD工作坊与活动"
     - title: 课程
       logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
       url: https://www.scad.edu/academics/programs/animation/degrees/bfa
-      description: ""
+      description: "SCAD动画专业课程介绍"
     - title: isso
       logo: https://www.google.com/s2/favicons?domain=depts.scad.edu&sz=64
       url: http://depts.scad.edu/isso
-      description: ""
+      description: "SCAD国际学生服务"
     - title: 12twenty
       logo: https://www.google.com/s2/favicons?domain=scad.12twenty.com&sz=64
       url: https://scad.12twenty.com/
-      description: ""
+      description: "SCAD就业与校友平台"
     - title: Rate My Professors
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
@@ -170,67 +174,67 @@
     - title: esl5
       logo: https://www.google.com/s2/favicons?domain=learn.eltngl.com&sz=64
       url: https://learn.eltngl.com/dashboard/courses
-      description: ""
+      description: "英语学习课程平台"
     - title: scad志愿者
       logo: https://www.google.com/s2/favicons?domain=scad.galaxydigital.com&sz=64
       url: https://scad.galaxydigital.com/
-      description: ""
+      description: "SCAD志愿者服务平台"
     - title: badge
       logo: https://www.google.com/s2/favicons?domain=credly.com&sz=64
       url: https://www.credly.com/organizations/savannah-college-of-art-design/badges
-      description: ""
+      description: "数字徽章与成就认证"
     - title: linkdln
       logo: https://www.google.com/s2/favicons?domain=linkedin.com&sz=64
       url: https://www.linkedin.com/feed/
-      description: ""
+      description: "全球职业社交平台"
     - title: speechace
       logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
       url: https://www.speechace.com/
-      description: ""
+      description: "英语口语测评工具"
   - term: 英语
     links:
     - title: google
       logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
       url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
-      description: ""
+      description: "谷歌翻译（英语学习）"
     - title: 剑桥
       logo: https://www.google.com/s2/favicons?domain=dictionary.cambridge.org&sz=64
       url: https://dictionary.cambridge.org/zhs/
-      description: ""
+      description: "剑桥权威在线词典"
     - title: 默默
       logo: https://www.google.com/s2/favicons?domain=maimemo.com&sz=64
       url: https://www.maimemo.com/
-      description: ""
+      description: "记忆背单词应用"
     - title: 有道
       logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
       url: https://fanyi.youdao.com/indexLLM.html#/TextTranslate
-      description: ""
+      description: "有道翻译（英语学习）"
   - term: 技术
     links:
     - title: 面具
       logo: https://www.google.com/s2/favicons?domain=magiskcn.com&sz=64
       url: https://magiskcn.com/
-      description: ""
+      description: "安卓系统Magisk工具"
     - title: 单位换算
       logo: https://www.google.com/s2/favicons?domain=cn.unithelper.com&sz=64
       url: https://cn.unithelper.com/data-storage/
-      description: ""
+      description: "常用单位换算工具"
     - title: qiucker
       logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
       url: https://getquicker.net/Share
-      description: ""
+      description: "效率提升自动化工具"
     - title: 兽音译者
       logo: https://www.google.com/s2/favicons?domain=roar.iiilab.com&sz=64
       url: https://roar.iiilab.com/
-      description: ""
+      description: "兽音翻译与语音合成"
     - title: PS快捷键
       logo: https://www.google.com/s2/favicons?domain=cheat-sheet.cn&sz=64
       url: https://www.cheat-sheet.cn/post/photoshop-keyboard-shortcuts/
-      description: ""
+      description: "Photoshop快捷键速查"
     - title: virS
       logo: https://www.google.com/s2/favicons?domain=virscan.org&sz=64
       url: https://www.virscan.org/
-      description: ""
+      description: "在线病毒扫描平台"
     - title: 三星优化完全指南
       logo: https://www.google.com/s2/favicons?domain=radishzz.cc&sz=64
       url: https://radishzz.cc/posts/384776b2/
@@ -244,31 +248,31 @@
     - title: vidu
       logo: https://www.google.com/s2/favicons?domain=vidu.com&sz=64
       url: https://www.vidu.com/home/recommend
-      description: ""
+      description: "AI视频生成与推荐平台"
     - title: AI语言模型
       logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
       url: https://huggingface.co/
-      description: ""
+      description: "全球AI模型社区"
     - title: AI角色卡
       logo: https://www.google.com/s2/favicons?domain=chub.ai&sz=64
       url: https://www.chub.ai/
-      description: ""
+      description: "AI角色设定与分享"
     - title: ai查重
       logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
       url: https://www.zerogpt.com/
-      description: ""
+      description: "AI文本原创度检测"
     - title: GPT
       logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
       url: https://chatgpt.com/
-      description: ""
+      description: "OpenAI推出的AI聊天工具"
     - title: gemini
       logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       url: https://gemini.google.com/
-      description: ""
+      description: "谷歌AI大模型对话平台"
     - title: notebookLM
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
-      description: ""
+      description: "谷歌AI笔记与知识管理工具"
   - term: 就业
     links:
     - title: my visa job
@@ -396,19 +400,19 @@
     - title: iconfinder
       logo: https://www.google.com/s2/favicons?domain=iconfinder.com&sz=64
       url: https://www.iconfinder.com/
-      description: ""
+      description: "免费图标搜索平台"
     - title: iconfont
       logo: https://www.google.com/s2/favicons?domain=iconfont.cn&sz=64
       url: http://www.iconfont.cn/
-      description: ""
+      description: "阿里巴巴矢量图标库"
     - title: ionicons
       logo: https://www.google.com/s2/favicons?domain=ionicons.com&sz=64
       url: http://ionicons.com/
-      description: ""
+      description: "开源矢量图标集"
     - title: iconmonstr
       logo: https://www.google.com/s2/favicons?domain=iconmonstr.com&sz=64
       url: https://iconmonstr.com/
-      description: ""
+      description: "简洁风格图标库"
   - term: 壁纸
     links:
     - title: 壁纸汇
@@ -564,12 +568,12 @@
     - title: 蔚蓝202榜单
       logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
       url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
-      description: ""
+      description: "蔚蓝游戏社区榜单文档"
     - title: 蔚蓝喵服
       logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
       url: https://celeste.centralteam.cn/
-      description: ""
+      description: "蔚蓝游戏服务器"
     - title: MC 种子
       logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
       url: https://www.chunkbase.com/
-      description: ""
+      description: "Minecraft地图种子工具"
