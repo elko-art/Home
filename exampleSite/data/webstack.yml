@@ -281,10 +281,10 @@
       logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
       url: https://claude.ai/
       description: "Anthropic推出的AI助手平台"
-      - title: deepseek api
-        logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
-        url: https://platform.deepseek.com/usage
-        description: "AI大模型API管理平台"
+    - title: deepseek
+      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
+      url: https://www.deepseek.com/
+      description: "DeepSeek AI大模型平台"
   - term: 就业
     links:
     - title: my visa job
