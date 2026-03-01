@@ -18,6 +18,10 @@
       url: https://fanyi.youdao.com/
       description: "有道出品的翻译服务"
     - title: SCAD
+    - title: Claude.ai
+      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
+      url: https://claude.ai/
+      description: "Anthropic推出的AI助手平台"
       logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
       url: https://www.scad.edu/
       description: "萨凡纳艺术与设计学院官网"
@@ -273,6 +277,14 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
       description: "谷歌AI笔记与知识管理工具"
+    - title: Claude.ai
+      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
+      url: https://claude.ai/
+      description: "Anthropic推出的AI助手平台"
+      - title: deepseek api
+        logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
+        url: https://platform.deepseek.com/usage
+        description: "AI大模型API管理平台"
   - term: 就业
     links:
     - title: my visa job
@@ -291,10 +303,10 @@
     links:
     - title: 海盗湾
       logo: https://www.google.com/s2/favicons?domain=thepiratebay.org&sz=64
-      url: https://thepiratebay.org/
-      description: 海盗湾
-    - title: rutracker
-      logo: https://www.google.com/s2/favicons?domain=rutracker.org&sz=64
+    - title: deepseek
+      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
+      url: https://www.deepseek.com/
+      description: "DeepSeek AI大模型平台"
       url: https://rutracker.org/
       description: rutracker
     - title: 博客园
