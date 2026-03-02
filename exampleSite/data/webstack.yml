@@ -18,12 +18,9 @@
       url: https://fanyi.youdao.com/
       description: "有道出品的翻译服务"
     - title: SCAD
-      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
-      url: https://claude.ai/
-      description: "Anthropic推出的AI助手平台"
-      logo: https://www.google.com/s2/favicons?domain=scad.edu&sz=64
-      url: https://www.scad.edu/
-      description: "萨凡纳艺术与设计学院官网"
+      logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
+      url: https://my.scad.edu/
+      description: "SCAD学生门户"
     - title: Blackboard
       logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/
