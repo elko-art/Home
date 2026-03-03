@@ -173,6 +173,10 @@
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
       description: 教授评价网站
+    - title: SCADextra活动与讲座
+      logo: https://www.google.com/s2/favicons?domain=scad-content.blackboard.com&sz=64
+      url: https://scad-content.blackboard.com/bbcswebdav/institution/Institution%20Page%20Assets/SCADextra/eventsworkshops.html
+      description: "SCADextra官方活动与讲座日历"
   - term: 学校作业
     links:
     - title: esl5
@@ -211,7 +215,7 @@
       description: "记忆背单词应用"
     - title: 有道
       logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
-      url: https://fanyi.youdao.com/indexLLM.html#/TextTranslate
+      url: https://fanyi.youdao.com/#/TextTranslate
       description: "有道翻译（英语学习）"
   - term: 技术
     links:
