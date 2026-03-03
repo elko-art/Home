@@ -24,23 +24,16 @@
     - title: Blackboard
       logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/
-      description: "SCAD在线教学平台"
-    - title: GPT
-      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
-      url: https://chatgpt.com/
-      description: "OpenAI推出的AI聊天工具"
-    - title: gemini
-      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
-      url: https://gemini.google.com/
-      description: "谷歌AI大模型对话平台"
-    - title: notebookLM
-      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
-      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
-      description: "谷歌AI笔记与知识管理工具"
+      description: "SCAD在线教学平台"    
     - title: Claude.ai
       logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
       url: https://claude.ai/
       description: "Anthropic推出的AI助手平台"
+    - title: notebookLM
+      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
+      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
+      description: "谷歌AI笔记与知识管理工具"
+
   - term: 个人站
     links:
     - title: ELKO
@@ -279,7 +272,7 @@
       logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
       url: https://www.zerogpt.com/
       description: "AI文本原创度检测"
-    - title: GPT
+    - title: ChatGPT
       logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
       url: https://chatgpt.com/
       description: "OpenAI推出的AI聊天工具"
