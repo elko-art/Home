@@ -15,7 +15,7 @@
       description: "谷歌官方在线翻译工具"
     - title: 有道翻译
       logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
-      url: https://fanyi.youdao.com/
+      url: https://fanyi.youdao.com/#/TextTranslate
       description: "有道出品的翻译服务"
     - title: SCAD
       logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
