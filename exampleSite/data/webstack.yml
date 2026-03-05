@@ -29,6 +29,10 @@
       logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
       url: https://claude.ai/
       description: "Anthropic推出的AI助手平台"
+    - title: Gemini
+      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
+      url: https://gemini.google.com/
+      description: "谷歌推出的新一代AI对话助手"
     - title: notebookLM
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
