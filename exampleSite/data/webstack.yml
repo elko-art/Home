@@ -64,6 +64,10 @@
       logo: /assets/images/default.png
       url: http://10.0.0.2:8000/
       description: "角色扮演AI酒馆目录"
+    - title: Adobe的作品集
+      logo: https://www.google.com/s2/favicons?domain=portfolio.adobe.com&sz=64
+      url: https://portfolio.adobe.com/d0b871d9-0381-41a5-be4c-a2f743e6a2b3/editor/foun110
+      description: "个人创意作品与设计项目"
   - term: 建站工具
     links:
     - title: Quartz 4
