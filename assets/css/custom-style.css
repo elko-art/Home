@@ -1,0 +1,320 @@
+/*调整全局字体大小*/
+body,html{font-size:14px;}
+
+/*左导航悬浮sidebar-menu-inner宽度调整*/
+.sidebar-popup.sidebar-menu-inner > div > ul > li.sidebar-item>ul{position:absolute;top:0px;left:10px;width:200px;z-index:99}
+.sidebar-popup.sidebar-menu-inner ul{width:200px}
+.sidebar-popup.sidebar-menu-inner ul li{width:200px}
+
+/*隐藏左导航scrollbar*/
+.sidebar-menu.flex-fill::-webkit-scrollbar{display:none}
+
+/*搜索框搜索图标颜色*/
+#search button i{color:#6C757D;font-size:18px}
+
+/*顶部导航栏字体+图标颜色*/
+.big-header-banner .page-header{color:#ffffff;background:rgba(255,255,255,0);box-shadow:none;transition:color .3s,background-color .3s}
+.big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item){color:#ffffff;}
+.big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a:hover,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item):hover{color:#dc3545;}
+.big-header-banner:not(.header-bg) .header-mini-btn path{stroke:#ffffff;}
+.big-header-banner:not(.header-bg) .header-mini-btn label:hover path{stroke:#ffffff;}
+
+/*搜索栏字体+背景*/
+.header-big #search-text{color:#6C757D;}
+.io-black-mode .header-big #search-text{color:#fff;}
+
+/*搜索activate图标颜色*/
+.header-big .search-type input:checked+label:before{content:'';border-width:8px 8px 0px 8px;border-style:solid;border-color:#ffffff transparent transparent;position:absolute;left:50%;top:0;margin-left:-8px}
+
+/*主页搜索搜索框(头+底部)字体颜色*/
+.header-big:not(.no-bg) .s-type-list{color:#20c997}
+.header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#ffffff!important}
+
+/*主页header-banner间距调整*/
+.header-big{margin-top:-55px}
+.post-top{padding-bottom:20px}
+
+/*左导航二级导航标题左侧距离*/
+.sidebar-menu-inner ul li ul li {
+    width: 100%;
+}
+.sidebar-menu-inner ul li ul li a {
+    margin-left: 0;
+    padding-left: 30px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/*头部导航二级导航iconfont图标*/
+.navbar-collapse ul li.menu-item-has-children:after{content:'\e612';}
+
+/*搜索部分背景样式*/
+.header-big.css-color{background-size:unset;background-position:unset;animation:unset;}
+.header-big.css-img{background-size:cover !important;background-position:center center !important;background-repeat:no-repeat !important;}
+
+/*搜索热词样式调整*/
+.search-hot-text{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    background: #FFF;
+    box-shadow: 0px 4px 5px 0px #cccccc94;
+    overflow: hidden;
+}
+.search-hot-text ul{
+    margin: 0;
+    padding: 5px 0;
+}
+.search-hot-text ul li{
+    line-height: 30px;
+    font-size: 14px;
+    padding: 0px 25px;
+    color: #777;
+    cursor: pointer;
+}
+.io-black-mode .search-hot-text ul li{
+    color: #fff;
+}    
+.search-hot-text ul li.current{
+    background: #f1f1f1;
+    color: #2196f3;
+}
+.search-hot-text ul li:hover{
+    background: #f1f1f1;
+    color: #2196f3;
+    cursor: pointer;
+}
+.search-hot-text ul li span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    background: #e5e5e5;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: #999;
+}
+
+footer.main-footer .footer-text {
+    text-align: center;
+}
+footer.main-footer .footer-text a {
+    color: #007bff;
+}
+footer.main-footer .footer-text a:hover {
+    color: red;
+}
+
+/*About页面*/
+.panel .panel-body a {color: #007bff;}
+.panel .panel-body a:hover {color: #979898;}
+
+/*导航 Logo 图标裁剪边角*/
+.url-card .url-img > img {
+    border-radius: 20%;
+}
+
+/* 统一所有网站图标尺寸 - Google API自动生成64x64图标 */
+.url-img img {
+    width: 32px !important;  /* 缩小至32px */
+    height: 32px !important;
+    object-fit: contain;  /* 保持比例，不裁剪 */
+    background: #f8f9fa;  /* 浅色背景 */
+    border-radius: 8px;   /* 圆角 */
+    padding: 4px;         /* 内边距 */
+}
+
+/* 深色模式下的图标样式 */
+.io-black-mode .url-img img {
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+}
+
+/* 确保图标容器统一 */
+.url-img {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+}
+
+/* ========== 密集布局优化 ========== */
+
+/* 减小卡片内边距 - 更紧凑 */
+.url-card .card-body {
+    padding: 0.35rem !important;  /* 进一步减小 */
+}
+
+/* 减小卡片底部间距 */
+.url-card .card.mb-4 {
+    margin-bottom: 0.5rem !important;  /* 进一步减小 */
+}
+
+/* 优化图标与文字间距 */
+.url-img.mr-2 {
+    margin-right: 0.4rem !important;  /* 减小图标右边距 */
+}
+
+/* 减小标题字体 */
+.url-info .text-sm strong {
+    font-size: 0.8rem;  /* 更小的标题 */
+}
+
+/* 减小描述字体 */
+.url-info .text-xs {
+    font-size: 0.65rem !important;  /* 更小的描述文字 */
+    line-height: 1.2;  /* 紧凑行高 */
+}
+
+/* 减小分类标题间距和字体 */
+.text-gray.text-lg.mb-4 {
+    margin-bottom: 0.5rem !important;
+    font-size: 1rem !important;  /* 减小分类标题字体 */
+}
+
+/* 行间距优化 */
+#content .row {
+    margin-left: -0.25rem;
+    margin-right: -0.25rem;
+}
+
+#content .row > [class*="col-"] {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+
+/* 响应式列数调整 - 增加密度 */
+@media (min-width: 576px) {
+    /* 小屏幕: 每行4列 */
+    .url-card.col-sm-4 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}
+
+@media (min-width: 768px) {
+    /* 中等屏幕: 每行5列 */
+    .url-card.col-md-3 {
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+
+@media (min-width: 992px) {
+    /* 大屏幕: 每行6列 */
+    .url-card.col-lg-3 {
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+}
+
+@media (min-width: 1200px) {
+    /* 超大屏幕: 每行7-8列 */
+    .url-card.col-xl-5a {
+        flex: 0 0 12.5%;
+        max-width: 12.5%;
+    }
+}
+
+@media (min-width: 1600px) {
+    /* 超超大屏幕: 每行10列 */
+    .url-card.col-xxl-6a {
+        flex: 0 0 10%;
+        max-width: 10%;
+    }
+}
+
+/* 卡片悬停效果优化 */
+.url-card .url-body:hover {
+    transform: translateY(-2px) !important;  /* 更轻微的悬停抬起 */
+}
+
+/* 减小"直达"按钮尺寸 */
+.url-card .togo {
+    font-size: 0.7rem;
+    padding: 0.15rem;
+}
+
+/* 优化卡片整体高度 */
+.url-card .card {
+    min-height: auto;
+}
+
+/* 减小标题行高 */
+.url-info .text-sm {
+    line-height: 1.3;
+}
+
+/* 移除多余的底部间距 */
+#content > br {
+    display: none;
+}
+
+/* URL内容区域优化 */
+.url-content {
+    gap: 0.4rem;  /* 减小图标和文字之间的间隙 */
+}
+
+/* 确保描述文字不占用过多空间 */
+.url-info p {
+    margin-bottom: 0 !important;
+    max-height: 1.2rem;  /* 限制描述高度 */
+    overflow: hidden;
+}
+
+/* 分类图标优化 */
+.site-tag {
+    font-size: 1rem !important;
+}
+
+/* 卡片圆角减小 */
+.url-card .card {
+    border-radius: 6px;  /* 更小的圆角 */
+}
+
+/* 三个大分类的背景颜色 */
+.taxonomy-section {
+    padding: 20px 30px;
+    margin: 0 -30px 20px -30px;
+    border-radius: 8px;
+}
+
+/* 第一个大分类去除顶部多余间距 */
+.taxonomy-section:first-of-type {
+    margin-top: 0px;
+}
+
+/* 大分类标题样式 */
+.taxonomy-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    letter-spacing: 0.5px;
+}
+
+.taxonomy-title i {
+    opacity: 0.5;
+    font-size: 1rem;
+}
+
+.taxonomy-1 {
+    background-color: rgba(0, 0, 0, 0.4);  /* 深灰 - 第一页:常用&个人网站 */
+}
+
+.taxonomy-2 {
+    background-color: rgba(0, 0, 0, 0.15);  /* 浅灰 - 第二页:学习&工作 */
+}
+
+.taxonomy-3 {
+    background-color: rgba(0, 0, 0, 0.4);  /* 深灰 - 第三页:资源 */
+}
+
+.taxonomy-4 {
+    background-color: rgba(0, 0, 0, 0.15);  /* 浅灰 - 第四页:娱乐 */
+}
+
