@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ELKO的网址导航</title>
-    <link>https://elko-utopia.github.io/Home/categories/</link>
+    <link>https://elko-art.github.io/Home/categories/</link>
     <description>Recent content in Categories on ELKO的网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <atom:link href="https://elko-utopia.github.io/Home/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elko-art.github.io/Home/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
