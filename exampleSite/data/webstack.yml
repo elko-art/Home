@@ -42,7 +42,7 @@
     links:
     - title: ELKO
       logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
-      url: https://elko-utopia.github.io/Creation_notes/
+      url: https://elko-utopia.github.io/
       description: "个人创作与笔记分享站"
     - title: sync
       logo: /assets/images/default.png
@@ -98,12 +98,57 @@
       description: "微软搜索引擎站长工具"
     - title: google
       logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
-      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/Creation_notes/
+      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/
       description: "谷歌站长平台"
+
+
+  - term: AI
+    links:
+    - title: Claude.ai
+      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
+      url: https://claude.ai/
+      description: "Anthropic推出的AI助手平台"
+    - title: notebookLM
+      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
+      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
+      description: "谷歌AI笔记与知识管理工具"
+    - title: Perplexity
+      logo: https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64
+      url: https://www.perplexity.ai/
+      description: "探索型问答与AI搜索"
+    - title: ChatGPT
+      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
+      url: https://chatgpt.com/
+      description: "OpenAI推出的AI聊天工具"
+    - title: gemini
+      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
+      url: https://gemini.google.com/
+      description: "谷歌AI大模型对话平台"
+    - title: deepseek
+      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
+      url: https://www.deepseek.com/
+      description: "DeepSeek AI大模型平台"
+    - title: AI语言模型
+      logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
+      url: https://huggingface.co/
+      description: "全球AI模型社区"
+    - title: AI角色卡
+      logo: https://www.google.com/s2/favicons?domain=chub.ai&sz=64
+      url: https://www.chub.ai/
+      description: "AI角色设定与分享"
+    - title: vidu
+      logo: https://www.google.com/s2/favicons?domain=vidu.com&sz=64
+      url: https://www.vidu.com/home/recommend
+      description: "AI视频生成与推荐平台"
+    - title: ai查重
+      logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
+      url: https://www.zerogpt.com/
+      description: "AI文本原创度检测"
     - title: deepseek api
       logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
       url: https://platform.deepseek.com/usage
       description: "AI大模型API管理平台"
+
   - term: 海外
     links:
     - title: youtube
@@ -262,44 +307,6 @@
       logo: https://www.google.com/s2/favicons?domain=markdown.com.cn&sz=64
       url: https://markdown.com.cn/basic-syntax/
       description: Markdown基础语法教程
-  - term: AI
-    links:
-    - title: vidu
-      logo: https://www.google.com/s2/favicons?domain=vidu.com&sz=64
-      url: https://www.vidu.com/home/recommend
-      description: "AI视频生成与推荐平台"
-    - title: AI语言模型
-      logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
-      url: https://huggingface.co/
-      description: "全球AI模型社区"
-    - title: AI角色卡
-      logo: https://www.google.com/s2/favicons?domain=chub.ai&sz=64
-      url: https://www.chub.ai/
-      description: "AI角色设定与分享"
-    - title: ai查重
-      logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
-      url: https://www.zerogpt.com/
-      description: "AI文本原创度检测"
-    - title: ChatGPT
-      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
-      url: https://chatgpt.com/
-      description: "OpenAI推出的AI聊天工具"
-    - title: gemini
-      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
-      url: https://gemini.google.com/
-      description: "谷歌AI大模型对话平台"
-    - title: notebookLM
-      logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
-      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
-      description: "谷歌AI笔记与知识管理工具"
-    - title: Claude.ai
-      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=64
-      url: https://claude.ai/
-      description: "Anthropic推出的AI助手平台"
-    - title: deepseek
-      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
-      url: https://www.deepseek.com/
-      description: "DeepSeek AI大模型平台"
   - term: 就业
     links:
     - title: my visa job

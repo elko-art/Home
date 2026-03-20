@@ -7,7 +7,7 @@
     links:
     - title: ELKO
       logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
-      url: https://elko-utopia.github.io/Creation_notes/
+      url: https://elko-utopia.github.io/
       description: ""
     - title: peter
       logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
@@ -45,7 +45,7 @@
       description: ""
     - title: google
       logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
-      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/Creation_notes/
+      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/
       description: ""
     - title: deepseek api
       logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
