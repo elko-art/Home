@@ -46,7 +46,7 @@
       description: "个人创作与笔记分享站"
     - title: sync
       logo: /assets/images/default.png
-      url: http://174.56.175.41:9000/
+      url: http://69.245.67.66:9000/
       description: "个人同步与文件管理站点"
     - title: peter
       logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
