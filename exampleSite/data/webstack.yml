@@ -225,9 +225,9 @@
       description: "SCADextra官方活动与讲座日历"
   - term: 学校作业
     links:
-    - title: esl5
-      logo: https://www.google.com/s2/favicons?domain=learn.eltngl.com&sz=64
-      url: https://learn.eltngl.com/dashboard/courses
+    - title: quizlet
+      logo: https://www.google.com/s2/favicons?domain=quizlet.com&sz=64
+      url: https://quizlet.com
       description: "英语学习课程平台"
     - title: scad志愿者
       logo: https://www.google.com/s2/favicons?domain=scad.galaxydigital.com&sz=64
