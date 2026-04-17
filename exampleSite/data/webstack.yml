@@ -35,7 +35,7 @@
       description: "谷歌推出的新一代AI对话助手"
     - title: notebookLM
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
-      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
+      url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
 
   - term: 个人站
@@ -219,6 +219,10 @@
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
       description: 教授评价网站
+    - title: Coursicle
+      logo: https://www.google.com/s2/favicons?domain=coursicle.com&sz=64
+      url: https://www.coursicle.com/scad/
+      description: "课程评价与时间表规划工具"
     - title: SCADextra活动与讲座
       logo: https://www.google.com/s2/favicons?domain=scad-content.blackboard.com&sz=64
       url: https://scad-content.blackboard.com/bbcswebdav/institution/Institution%20Page%20Assets/SCADextra/eventsworkshops.html
