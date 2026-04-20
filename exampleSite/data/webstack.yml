@@ -245,10 +245,20 @@
       logo: https://www.google.com/s2/favicons?domain=linkedin.com&sz=64
       url: https://www.linkedin.com/feed/
       description: "全球职业社交平台"
+  - term: 学习工具
+    links:
     - title: speechace
       logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
       url: https://www.speechace.com/
       description: "英语口语测评工具"
+    - title: Poly Haven
+      logo: https://www.google.com/s2/favicons?domain=polyhaven.com&sz=64
+      url: https://polyhaven.com
+      description: "免费3D模型、纹理和HDRI资源库"
+    - title: Line of Action
+      logo: https://www.google.com/s2/favicons?domain=line-of-action.com&sz=64
+      url: https://line-of-action.com/
+      description: "人体素描参考和人体绘画教学工具"
   - term: 英语
     links:
     - title: google
@@ -529,7 +539,31 @@
       logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
       description: lazy midi
+  - term: 神秘小网站
+    links:
+    - title: ？
+      logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
+      url: https://rule34.paheal.net/
+      description: ？
+
+- taxonomy: 第四页:娱乐
+  icon: fas fa-gamepad fa-lg
+  list:
   - term: 游戏
+    links:
+    - title: 蔚蓝202榜单
+      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
+      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
+      description: "蔚蓝游戏社区榜单文档"
+    - title: 蔚蓝喵服
+      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
+      url: https://celeste.centralteam.cn/
+      description: "蔚蓝游戏服务器"
+    - title: MC 种子
+      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
+      url: https://www.chunkbase.com/
+      description: "Minecraft地图种子工具"
+  - term: 游戏资源
     links:
     - title: 修改版游戏
       logo: https://www.google.com/s2/favicons?domain=androeed.store&sz=64
@@ -591,27 +625,3 @@
       logo: https://www.google.com/s2/favicons?domain=ns211.com&sz=64
       url: https://www.ns211.com/
       description: Switch游戏资源站
-  - term: 神秘小网站
-    links:
-    - title: ？
-      logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
-      url: https://rule34.paheal.net/
-      description: ？
-
-- taxonomy: 第四页:娱乐
-  icon: fas fa-gamepad fa-lg
-  list:
-  - term: 游戏
-    links:
-    - title: 蔚蓝202榜单
-      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
-      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
-      description: "蔚蓝游戏社区榜单文档"
-    - title: 蔚蓝喵服
-      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
-      url: https://celeste.centralteam.cn/
-      description: "蔚蓝游戏服务器"
-    - title: MC 种子
-      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
-      url: https://www.chunkbase.com/
-      description: "Minecraft地图种子工具"
