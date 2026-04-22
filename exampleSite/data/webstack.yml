@@ -259,6 +259,14 @@
       logo: https://www.google.com/s2/favicons?domain=line-of-action.com&sz=64
       url: https://line-of-action.com/
       description: "人体素描参考和人体绘画教学工具"
+    - title: Quickposes
+      logo: https://www.google.com/s2/favicons?domain=quickposes.com&sz=64
+      url: https://quickposes.com/en
+      description: "快速素描姿态参考工具"
+    - title: Gesture Drawing Online
+      logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
+      url: https://www.youtube.com/@GestureDrawingOnline
+      description: "手势绘画教学YouTube频道"
   - term: 英语
     links:
     - title: google
