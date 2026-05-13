@@ -256,7 +256,7 @@
       description: "数字徽章与成就认证"
   - term: 英语
     links:
-   - title: quizlet
+    - title: quizlet
       logo: https://www.google.com/s2/favicons?domain=quizlet.com&sz=64
       url: https://quizlet.com
       description: "英语学习课程平台"
