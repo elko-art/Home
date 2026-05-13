@@ -1,7 +1,7 @@
-- item: 首页
+- item: Home
   icon: fa fa-home
   link: "./"
 
-- item: 作者
+- item: Author
   icon: fa fa-book
   link: https://elko-utopia.github.io/
