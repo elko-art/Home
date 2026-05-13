@@ -55,11 +55,15 @@
     - title: stevenroberson
       logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
       url: https://www.stevenroberson.com/
-      description: "个人博客与作品集"
+      description: "stevenroberson的个人博客与作品集"
     - title: zezhouchen
       logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
       url: https://zezhouchen.com/
-      description: "个人主页与技术分享"
+      description: "zezhouchen"
+    - title: Mikhail Rakhmatullin
+      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
+      url: https://rahmatozz.artstation.com/
+      description: "Mikhail Rakhmatullin的ArtStation作品集"
     - title: 酒馆
       logo: /assets/images/default.png
       url: http://10.0.0.2:8000/
@@ -110,7 +114,7 @@
       description: "Anthropic推出的AI助手平台"
     - title: notebookLM
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
-      url: https://notebooklm.google.com/?utm_source=1pgemini&utm_medium=in-product&utm_campaign=geminitopmenu&utm_smc=1pgemini_in-product_geminitopmenu&authuser=1&pageId=none
+      url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
     - title: Perplexity
       logo: https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64
