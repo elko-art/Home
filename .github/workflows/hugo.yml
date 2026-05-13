@@ -1,5 +1,8 @@
 name: Hugo Actions # 名字自取
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches:

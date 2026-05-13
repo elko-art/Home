@@ -74,14 +74,18 @@
       description: "个人创意作品与设计项目"
   - term: 站主工具
     links:
-    - title: 分析工具
-      logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
-      url: https://pagespeed.web.dev/analysis/
-      description: "谷歌网站性能分析工具"
+    - title: GITHUB
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/
+      description: "全球最大开源代码托管平台"
     - title: bing
       logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
       url: https://www.bing.com/webmasters?tid=ba077421-af65-48d6-8e41-00c6ba62f51c
       description: "微软搜索引擎站长工具"
+    - title: 分析工具
+      logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
+      url: https://pagespeed.web.dev/analysis/
+      description: "谷歌网站性能分析工具"
     - title: google
       logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
       url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/
@@ -90,10 +94,6 @@
       logo: https://www.google.com/s2/favicons?domain=quartz.jzhao.xyz&sz=64
       url: https://quartz.jzhao.xyz/
       description: "开源静态网站生成器"
-    - title: GITHUB
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-      url: https://github.com/
-      description: "全球最大开源代码托管平台"
     - title: buttondown
       logo: https://www.google.com/s2/favicons?domain=buttondown.com&sz=64
       url: https://buttondown.com/home
@@ -124,11 +124,7 @@
       logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       url: https://gemini.google.com/
       description: "谷歌AI大模型对话平台"
-    - title: deepseek
-      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
-      url: https://www.deepseek.com/
-      description: "DeepSeek AI大模型平台"
-    - title: AI语言模型
+    - title: huggingface
       logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
       url: https://huggingface.co/
       description: "全球AI模型社区"
@@ -144,7 +140,11 @@
       logo: https://www.google.com/s2/favicons?domain=zerogpt.com&sz=64
       url: https://www.zerogpt.com/
       description: "AI文本原创度检测"
-    - title: deepseek api
+    - title: deepsick
+      logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=64
+      url: https://www.deepseek.com/
+      description: "DeepSeek AI大模型平台"
+    - title: deepsick api
       logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
       url: https://platform.deepseek.com/usage
       description: "AI大模型API管理平台"
@@ -160,7 +160,7 @@
       description: "图片与短视频社交平台"
     - title: Discord
       logo: https://www.google.com/s2/favicons?domain=discord.com&sz=64
-      url: https://discord.com/
+      url: https://discord.com/channels/@me
       description: "全球流行的语音与社区平台"
     - title: pixiv
       logo: https://www.google.com/s2/favicons?domain=pixiv.net&sz=64
@@ -174,18 +174,18 @@
       logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
       url: https://www.pinterest.com/
       description: "图片灵感收集与分享平台"
-    - title: X / Twitter
+    - title: X
       logo: https://www.google.com/s2/favicons?domain=x.com&sz=64
       url: https://x.com/
-      description: "海外信息流和创作者动态很常用"
+      description: "实时信息流与创作者动态平台"
     - title: Reddit
       logo: https://www.google.com/s2/favicons?domain=reddit.com&sz=64
       url: https://www.reddit.com/
-      description: "社区问答、兴趣圈和资源讨论非常常见"
+      description: "热门社区讨论与话题聚合平台"
     - title: Facebook
       logo: https://www.google.com/s2/favicons?domain=facebook.com&sz=64
       url: https://www.facebook.com/
-      description: "在一些地区和小组里仍然很常用"
+      description: "社交关系与群组交流平台"
   - term: 老钟网站
     links:
     - title: B站

@@ -1,5 +1,8 @@
 name: code-sync
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   workflow_dispatch:  # 改为手动触发，避免自动运行失败
   # push:
