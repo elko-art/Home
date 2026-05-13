@@ -72,8 +72,20 @@
       logo: https://www.google.com/s2/favicons?domain=portfolio.adobe.com&sz=64
       url: https://portfolio.adobe.com/d0b871d9-0381-41a5-be4c-a2f743e6a2b3/editor/foun110
       description: "个人创意作品与设计项目"
-  - term: 建站工具
+  - term: 站主工具
     links:
+    - title: 分析工具
+      logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
+      url: https://pagespeed.web.dev/analysis/
+      description: "谷歌网站性能分析工具"
+    - title: bing
+      logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
+      url: https://www.bing.com/webmasters?tid=ba077421-af65-48d6-8e41-00c6ba62f51c
+      description: "微软搜索引擎站长工具"
+    - title: google
+      logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
+      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/
+      description: "谷歌站长平台"
     - title: Quartz 4
       logo: https://www.google.com/s2/favicons?domain=quartz.jzhao.xyz&sz=64
       url: https://quartz.jzhao.xyz/
@@ -90,22 +102,6 @@
       logo: https://www.google.com/s2/favicons?domain=webstack-hugo.weiyan.cc&sz=64
       url: https://webstack-hugo.weiyan.cc/
       description: "Hugo主题的导航站模板"
-  - term: 站主工具
-    links:
-    - title: 分析工具
-      logo: https://www.google.com/s2/favicons?domain=pagespeed.web.dev&sz=64
-      url: https://pagespeed.web.dev/analysis/
-      description: "谷歌网站性能分析工具"
-    - title: bing
-      logo: https://www.google.com/s2/favicons?domain=bing.com&sz=64
-      url: https://www.bing.com/webmasters?tid=ba077421-af65-48d6-8e41-00c6ba62f51c
-      description: "微软搜索引擎站长工具"
-    - title: google
-      logo: https://www.google.com/s2/favicons?domain=search.google.com&sz=64
-      url: https://search.google.com/search-console?resource_id=https://elko-utopia.github.io/
-      description: "谷歌站长平台"
-
-
   - term: AI
     links:
     - title: Claude.ai
@@ -152,14 +148,13 @@
       logo: https://www.google.com/s2/favicons?domain=platform.deepseek.com&sz=64
       url: https://platform.deepseek.com/usage
       description: "AI大模型API管理平台"
-
   - term: 海外
     links:
     - title: youtube
       logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
       url: https://www.youtube.com/
       description: "全球最大视频分享平台"
-    - title: ins
+    - title: Instagram
       logo: https://www.google.com/s2/favicons?domain=instagram.com&sz=64
       url: https://www.instagram.com/#reactivated
       description: "图片与短视频社交平台"
@@ -179,12 +174,32 @@
       logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
       url: https://www.pinterest.com/
       description: "图片灵感收集与分享平台"
+    - title: X / Twitter
+      logo: https://www.google.com/s2/favicons?domain=x.com&sz=64
+      url: https://x.com/
+      description: "海外信息流和创作者动态很常用"
+    - title: Reddit
+      logo: https://www.google.com/s2/favicons?domain=reddit.com&sz=64
+      url: https://www.reddit.com/
+      description: "社区问答、兴趣圈和资源讨论非常常见"
+    - title: Facebook
+      logo: https://www.google.com/s2/favicons?domain=facebook.com&sz=64
+      url: https://www.facebook.com/
+      description: "在一些地区和小组里仍然很常用"
   - term: 老钟网站
     links:
+    - title: B站
+      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
+      url: https://search.bilibili.com/all
+      description: "中国知名弹幕视频网站"
     - title: 幕布
       logo: https://www.google.com/s2/favicons?domain=mubu.com&sz=64
       url: https://mubu.com/explore
       description: "结构化思维导图工具"
+    - title: quicker
+      logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
+      url: https://getquicker.net/Share
+      description: "效率提升与自动化工具"
     - title: 豆包语音
       logo: https://www.google.com/s2/favicons?domain=console.volcengine.com&sz=64
       url: https://console.volcengine.com/speech/service/10039?AppID=7563058102
@@ -231,12 +246,6 @@
       logo: https://www.google.com/s2/favicons?domain=scad-content.blackboard.com&sz=64
       url: https://scad-content.blackboard.com/bbcswebdav/institution/Institution%20Page%20Assets/SCADextra/eventsworkshops.html
       description: "SCADextra官方活动与讲座日历"
-  - term: 学校作业
-    links:
-    - title: quizlet
-      logo: https://www.google.com/s2/favicons?domain=quizlet.com&sz=64
-      url: https://quizlet.com
-      description: "英语学习课程平台"
     - title: scad志愿者
       logo: https://www.google.com/s2/favicons?domain=scad.galaxydigital.com&sz=64
       url: https://scad.galaxydigital.com/
@@ -245,34 +254,12 @@
       logo: https://www.google.com/s2/favicons?domain=credly.com&sz=64
       url: https://www.credly.com/organizations/savannah-college-of-art-design/badges
       description: "数字徽章与成就认证"
-    - title: linkdln
-      logo: https://www.google.com/s2/favicons?domain=linkedin.com&sz=64
-      url: https://www.linkedin.com/feed/
-      description: "全球职业社交平台"
-  - term: 学习工具
-    links:
-    - title: speechace
-      logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
-      url: https://www.speechace.com/
-      description: "英语口语测评工具"
-    - title: Poly Haven
-      logo: https://www.google.com/s2/favicons?domain=polyhaven.com&sz=64
-      url: https://polyhaven.com
-      description: "免费3D模型、纹理和HDRI资源库"
-    - title: Line of Action
-      logo: https://www.google.com/s2/favicons?domain=line-of-action.com&sz=64
-      url: https://line-of-action.com/
-      description: "人体素描参考和人体绘画教学工具"
-    - title: Quickposes
-      logo: https://www.google.com/s2/favicons?domain=quickposes.com&sz=64
-      url: https://quickposes.com/en
-      description: "快速素描姿态参考工具"
-    - title: Gesture Drawing Online
-      logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
-      url: https://www.youtube.com/@GestureDrawingOnline
-      description: "手势绘画教学YouTube频道"
   - term: 英语
     links:
+   - title: quizlet
+      logo: https://www.google.com/s2/favicons?domain=quizlet.com&sz=64
+      url: https://quizlet.com
+      description: "英语学习课程平台"
     - title: google
       logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
       url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
@@ -285,20 +272,18 @@
       logo: https://www.google.com/s2/favicons?domain=maimemo.com&sz=64
       url: https://www.maimemo.com/
       description: "记忆背单词应用"
-  - term: 翻译
-    links:
     - title: DeepL翻译
       logo: https://www.google.com/s2/favicons?domain=deepl.com&sz=64
       url: https://www.deepl.com/en/translator
       description: "高质量AI翻译工具，支持多语言互译"
-    - title: 谷歌翻译
-      logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
-      url: https://translate.google.com/
-      description: "谷歌官方在线翻译工具"
     - title: 有道翻译
       logo: https://www.google.com/s2/favicons?domain=fanyi.youdao.com&sz=64
       url: https://fanyi.youdao.com/#/TextTranslate
       description: "有道出品的翻译服务"
+    - title: speechace
+      logo: https://www.google.com/s2/favicons?domain=speechace.com&sz=64
+      url: https://www.speechace.com/
+      description: "英语口语测评工具"
   - term: 技术
     links:
     - title: 面具
@@ -335,6 +320,10 @@
       description: Markdown基础语法教程
   - term: 就业
     links:
+    - title: linkdln
+      logo: https://www.google.com/s2/favicons?domain=linkedin.com&sz=64
+      url: https://www.linkedin.com/feed/
+      description: "全球职业社交平台"
     - title: my visa job
       logo: https://www.google.com/s2/favicons?domain=myvisajobs.com&sz=64
       url: https://www.myvisajobs.com/
@@ -369,6 +358,32 @@
       logo: https://www.google.com/s2/favicons?domain=tuostudy.upnb.top&sz=64
       url: https://tuostudy.upnb.top/
       description: 图欧资源站
+  - term: 3D资源
+    links:
+    - title: Poly Haven
+      logo: https://www.google.com/s2/favicons?domain=polyhaven.com&sz=64
+      url: https://polyhaven.com
+      description: "免费3D模型、纹理和HDRI资源库"
+    - title: Sketchfab
+      logo: https://www.google.com/s2/favicons?domain=sketchfab.com&sz=64
+      url: https://sketchfab.com/
+      description: "支持在线预览的3D模型社区与市场"
+    - title: CGTrader
+      logo: https://www.google.com/s2/favicons?domain=cgtrader.com&sz=64
+      url: https://www.cgtrader.com/
+      description: "3D模型交易市场，商用资源丰富"
+    - title: TurboSquid
+      logo: https://www.google.com/s2/favicons?domain=turbosquid.com&sz=64
+      url: https://www.turbosquid.com/
+      description: "老牌高质量3D模型资源平台"
+    - title: Free3D
+      logo: https://www.google.com/s2/favicons?domain=free3d.com&sz=64
+      url: https://free3d.com/
+      description: "免费3D模型下载站"
+    - title: Blend Swap
+      logo: https://www.google.com/s2/favicons?domain=blendswap.com&sz=64
+      url: https://www.blendswap.com/
+      description: "Blender社区模型分享站"
   - term: 扒视频
     links:
     - title: 油管
@@ -383,6 +398,20 @@
       logo: https://www.google.com/s2/favicons?domain=xdown.app&sz=64
       url: https://xdown.app/zh-cn
       description: 推特视频下载
+  - term: 速写模特
+    links:
+    - title: Line of Action
+      logo: https://www.google.com/s2/favicons?domain=line-of-action.com&sz=64
+      url: https://line-of-action.com/
+      description: "人体素描参考和人体绘画教学工具"
+    - title: Quickposes
+      logo: https://www.google.com/s2/favicons?domain=quickposes.com&sz=64
+      url: https://quickposes.com/en
+      description: "快速素描姿态参考工具"
+    - title: Gesture Drawing Online
+      logo: https://www.google.com/s2/favicons?domain=youtube.com&sz=64
+      url: https://www.youtube.com/@GestureDrawingOnline
+      description: "手势绘画教学YouTube频道"
   - term: 软件
     links:
     - title: 羽图
@@ -551,30 +580,6 @@
       logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
       description: lazy midi
-  - term: 神秘小网站
-    links:
-    - title: ？
-      logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
-      url: https://rule34.paheal.net/
-      description: ？
-
-- taxonomy: 第四页:娱乐
-  icon: fas fa-gamepad fa-lg
-  list:
-  - term: 游戏
-    links:
-    - title: 蔚蓝202榜单
-      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
-      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
-      description: "蔚蓝游戏社区榜单文档"
-    - title: 蔚蓝喵服
-      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
-      url: https://celeste.centralteam.cn/
-      description: "蔚蓝游戏服务器"
-    - title: MC 种子
-      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
-      url: https://www.chunkbase.com/
-      description: "Minecraft地图种子工具"
   - term: 游戏资源
     links:
     - title: 修改版游戏
@@ -637,3 +642,26 @@
       logo: https://www.google.com/s2/favicons?domain=ns211.com&sz=64
       url: https://www.ns211.com/
       description: Switch游戏资源站
+  - term: 神秘小网站
+    links:
+    - title: ？
+      logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
+      url: https://rule34.paheal.net/
+      description: ？
+- taxonomy: 第四页:娱乐
+  icon: fas fa-gamepad fa-lg
+  list:
+  - term: 游戏
+    links:
+    - title: 蔚蓝202榜单
+      logo: https://www.google.com/s2/favicons?domain=docs.google.com&sz=64
+      url: https://docs.google.com/spreadsheets/d/1FesTb6qkgMz-dCn7YdioRydToWSQNTg1axFEIHU4FF8/edit#gid=571489394
+      description: "蔚蓝游戏社区榜单文档"
+    - title: 蔚蓝喵服
+      logo: https://www.google.com/s2/favicons?domain=celeste.centralteam.cn&sz=64
+      url: https://celeste.centralteam.cn/
+      description: "蔚蓝游戏服务器"
+    - title: MC 种子
+      logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
+      url: https://www.chunkbase.com/
+      description: "Minecraft地图种子工具"
