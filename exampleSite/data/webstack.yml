@@ -384,6 +384,10 @@
       logo: https://www.google.com/s2/favicons?domain=blendswap.com&sz=64
       url: https://www.blendswap.com/
       description: "Blender社区模型分享站"
+    - title: Animation Methods Rigs
+      logo: https://www.google.com/s2/favicons?domain=animationmethods.com&sz=64
+      url: https://www.animationmethods.com/rigs.html
+      description: "3D角色绑定(rigging)资源与教学"
   - term: 扒视频
     links:
     - title: 油管
