@@ -677,7 +677,7 @@
       logo: https://www.google.com/s2/favicons?domain=ns211.com&sz=64
       url: https://www.ns211.com/
       description: Switch游戏资源站
-      - title: Nexus Mods
-        logo: https://www.google.com/s2/favicons?domain=nexusmods.com&sz=64
-        url: https://www.nexusmods.com/
-        description: "Nexus Mods，全球最大游戏MOD社区，星露谷物语等热门游戏MOD集中地"
+    - title: Nexus Mods
+      logo: https://www.google.com/s2/favicons?domain=nexusmods.com&sz=64
+      url: https://www.nexusmods.com/
+      description: "Nexus Mods，全球最大游戏MOD社区，星露谷物语等热门游戏MOD集中地"
