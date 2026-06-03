@@ -365,6 +365,12 @@
       logo: https://www.google.com/s2/favicons?domain=tuostudy.upnb.top&sz=64
       url: https://tuostudy.upnb.top/
       description: 图欧资源站
+  - term: 动画资源
+    links:
+    - title: Animations Screencaps
+      logo: https://www.google.com/s2/favicons?domain=animationscreencaps.com&sz=64
+      url: https://animationscreencaps.com
+      description: 高分辨率、高画质动画电影及电视节目截帧的线上高精度图像归档数据库
   - term: 3D资源
     links:
     - title: Poly Haven
