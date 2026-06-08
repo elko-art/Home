@@ -718,87 +718,87 @@
       logo: https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=64
       url: https://store.steampowered.com/
       description: "游戏与软件商店"
-       - title: Krita
-         logo: https://www.google.com/s2/favicons?domain=krita.org&sz=64
-         url: https://krita.org/
-         description: "开源绘画软件"
-       - title: Cheat Engine
-         logo: https://www.google.com/s2/favicons?domain=www.cheatengine.org&sz=64
-         url: https://www.cheatengine.org/
-         description: "游戏调试与修改工具"
-       - title: Blender
-         logo: https://www.google.com/s2/favicons?domain=www.blender.org&sz=64
-         url: https://www.blender.org/
-         description: "开源3D建模与渲染软件"
-       - title: OBS Studio
-         logo: https://www.google.com/s2/favicons?domain=obsproject.com&sz=64
-         url: https://obsproject.com/
-         description: "开源录屏与直播软件"
-       - title: Everything
-         logo: https://www.google.com/s2/favicons?domain=www.voidtools.com&sz=64
-         url: https://www.voidtools.com/
-         description: "快速文件搜索工具"
-       - title: Quicker
-         logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
-         url: https://getquicker.net/Download
-         description: "Quicker 下载页"
-       - title: PotPlayer
-         logo: https://www.google.com/s2/favicons?domain=potplayer.daum.net&sz=64
-         url: https://potplayer.daum.net/
-         description: "多功能媒体播放器"
-       - title: Logi Options+
-         logo: https://www.google.com/s2/favicons?domain=www.logitech.com&sz=64
-         url: https://www.logitech.com/zh-cn/software/options-plus.html
-         description: "罗技设备配置软件"
-       - title: NVIDIA App
-         logo: https://www.google.com/s2/favicons?domain=nvidia.com&sz=64
-         url: https://www.nvidia.com/zh-cn/geforce/geforce-experience/
-         description: "NVIDIA 驱动与体验软件"
-       - title: Firefox
-         logo: https://www.google.com/s2/favicons?domain=mozilla.org&sz=64
-         url: https://www.mozilla.org/zh-CN/firefox/new/
-         description: "Firefox 浏览器"
-       - title: Outlook
-         logo: https://www.google.com/s2/favicons?domain=outlook.live.com&sz=64
-         url: https://outlook.live.com/
-         description: "微软邮箱服务"
-       - title: Zoom
-         logo: https://www.google.com/s2/favicons?domain=zoom.us&sz=64
-         url: https://zoom.us/
-         description: "视频会议软件"
-       - title: Wacom 驱动
-         logo: https://www.google.com/s2/favicons?domain=wacom.com&sz=64
-         url: https://www.wacom.com/en-us/support/product-support/drivers
-         description: "Wacom 官方驱动下载"
-       - title: HoneyView
-         logo: https://www.google.com/s2/favicons?domain=www.bandisoft.com&sz=64
-         url: https://www.bandisoft.com/honeyview/
-         description: "快速图片浏览器"
-       - title: 7-Zip
-         logo: https://www.google.com/s2/favicons?domain=www.7-zip.org&sz=64
-         url: https://www.7-zip.org/
-         description: "开源压缩软件"
-       - title: ActivityWatch
-         logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-         url: https://github.com/ActivityWatch/activitywatch/
-         description: "开源使用统计工具"
-       - title: Intel Driver Support Assistant
-         logo: https://www.google.com/s2/favicons?domain=intel.cn&sz=64
-         url: https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html
-         description: "英特尔驱动支持工具"
-       - title: LazyTyper
-         logo: https://www.google.com/s2/favicons?domain=lazytyper.com&sz=64
-         url: https://lazytyper.com/
-         description: "语音打字/转写工具，支持多模型实时转写"
-       - title: Obsidian Fast Note Sync (GitHub)
-         logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-         url: https://github.com/haierkeys/obsidian-fast-note-sync
-         description: "Obsidian 同步插件"
-       - title: BiBi-Keyboard (GitHub)
-         logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-         url: https://github.com/BryceWG/BiBi-Keyboard
-         description: "键盘工具"
-       - title: FileConverter (GitHub)
-         logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-         url: https://github.com/Tichau/FileConverter
-         description: "多文件格式转换工具"
+    - title: Krita
+      logo: https://www.google.com/s2/favicons?domain=krita.org&sz=64
+      url: https://krita.org/
+      description: "开源绘画软件"
+    - title: Cheat Engine
+      logo: https://www.google.com/s2/favicons?domain=www.cheatengine.org&sz=64
+      url: https://www.cheatengine.org/
+      description: "游戏调试与修改工具"
+    - title: Blender
+      logo: https://www.google.com/s2/favicons?domain=www.blender.org&sz=64
+      url: https://www.blender.org/
+      description: "开源3D建模与渲染软件"
+    - title: OBS Studio
+      logo: https://www.google.com/s2/favicons?domain=obsproject.com&sz=64
+      url: https://obsproject.com/
+      description: "开源录屏与直播软件"
+    - title: Everything
+      logo: https://www.google.com/s2/favicons?domain=www.voidtools.com&sz=64
+      url: https://www.voidtools.com/
+      description: "快速文件搜索工具"
+    - title: Quicker
+      logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
+      url: https://getquicker.net/Download
+      description: "Quicker 下载页"
+    - title: PotPlayer
+      logo: https://www.google.com/s2/favicons?domain=potplayer.daum.net&sz=64
+      url: https://potplayer.daum.net/
+      description: "多功能媒体播放器"
+    - title: Logi Options+
+      logo: https://www.google.com/s2/favicons?domain=www.logitech.com&sz=64
+      url: https://www.logitech.com/zh-cn/software/options-plus.html
+      description: "罗技设备配置软件"
+    - title: NVIDIA App
+      logo: https://www.google.com/s2/favicons?domain=nvidia.com&sz=64
+      url: https://www.nvidia.com/zh-cn/geforce/geforce-experience/
+      description: "NVIDIA 驱动与体验软件"
+    - title: Firefox
+      logo: https://www.google.com/s2/favicons?domain=mozilla.org&sz=64
+      url: https://www.mozilla.org/zh-CN/firefox/new/
+      description: "Firefox 浏览器"
+    - title: Outlook
+      logo: https://www.google.com/s2/favicons?domain=outlook.live.com&sz=64
+      url: https://outlook.live.com/
+      description: "微软邮箱服务"
+    - title: Zoom
+      logo: https://www.google.com/s2/favicons?domain=zoom.us&sz=64
+      url: https://zoom.us/
+      description: "视频会议软件"
+    - title: Wacom 驱动
+      logo: https://www.google.com/s2/favicons?domain=wacom.com&sz=64
+      url: https://www.wacom.com/en-us/support/product-support/drivers
+      description: "Wacom 官方驱动下载"
+    - title: HoneyView
+      logo: https://www.google.com/s2/favicons?domain=www.bandisoft.com&sz=64
+      url: https://www.bandisoft.com/honeyview/
+      description: "快速图片浏览器"
+    - title: 7-Zip
+      logo: https://www.google.com/s2/favicons?domain=www.7-zip.org&sz=64
+      url: https://www.7-zip.org/
+      description: "开源压缩软件"
+    - title: ActivityWatch
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/ActivityWatch/activitywatch/
+      description: "开源使用统计工具"
+    - title: Intel Driver Support Assistant
+      logo: https://www.google.com/s2/favicons?domain=intel.cn&sz=64
+      url: https://www.intel.cn/content/www/cn/zh/support/intel-driver-support-assistant.html
+      description: "英特尔驱动支持工具"
+    - title: LazyTyper
+      logo: https://www.google.com/s2/favicons?domain=lazytyper.com&sz=64
+      url: https://lazytyper.com/
+      description: "语音打字/转写工具，支持多模型实时转写"
+    - title: Obsidian Fast Note Sync (GitHub)
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/haierkeys/obsidian-fast-note-sync
+      description: "Obsidian 同步插件"
+    - title: BiBi-Keyboard (GitHub)
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/BryceWG/BiBi-Keyboard
+      description: "键盘工具"
+    - title: FileConverter (GitHub)
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/Tichau/FileConverter
+      description: "多文件格式转换工具"
