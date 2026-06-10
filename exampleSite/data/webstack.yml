@@ -496,7 +496,7 @@
       description: kupdf
     - title: 安娜档案
       logo: https://www.google.com/s2/favicons?domain=annas-archive.org&sz=64
-      url: https://annas-archive.org/
+      url: https://annas-archive.gl
       description: 安娜档案
     - title: 互联网档案
       logo: https://www.google.com/s2/favicons?domain=archive.org&sz=64
@@ -778,6 +778,10 @@
       logo: https://www.google.com/s2/favicons?domain=www.7-zip.org&sz=64
       url: https://www.7-zip.org/
       description: "开源压缩软件"
+    - title: XnConvert
+      logo: https://www.google.com/s2/favicons?domain=www.xnview.com&sz=64
+      url: https://www.xnview.com/en/xnconvert/
+      description: "强大的批量图像转换与处理工具"
     - title: ActivityWatch
       logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       url: https://github.com/ActivityWatch/activitywatch/
