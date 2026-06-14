@@ -41,32 +41,28 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
-  - term: 个人站
+  - term: 本地开发
     links:
     - title: ELKO
       logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
       url: https://elko-utopia.github.io/
       description: "个人创作与笔记分享站"
+    - title: 4321
+      logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
+      url: http://localhost:4321/
+      description: "4321本地开发测试站点"
+    - title: 4322
+      logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
+      url: http://localhost:4322/
+      description: "4322本地开发测试站点"  
+    - title: 4323
+      logo: https://www.google.com/s2/favicons?domain=elko-utopia.github.io&sz=64
+      url: http://localhost:4323/
+      description: "4323本地开发测试站点"
     - title: sync
       logo: /assets/images/default.png
       url: http://69.245.67.66:9000/
       description: "个人同步与文件管理站点"
-    - title: peter
-      logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
-      url: https://peterlogic1.github.io/
-      description: "个人主页与项目展示"
-    - title: stevenroberson
-      logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
-      url: https://www.stevenroberson.com/
-      description: "stevenroberson的个人博客与作品集"
-    - title: zezhouchen
-      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
-      url: https://zezhouchen.com/
-      description: "zezhouchen"
-    - title: Mikhail Rakhmatullin
-      logo: https://www.google.com/s2/favicons?domain=artstation.com&sz=64
-      url: https://rahmatozz.artstation.com/
-      description: "Mikhail Rakhmatullin的ArtStation作品集"
     - title: 酒馆
       logo: /assets/images/default.png
       url: http://10.0.0.61:8000/
@@ -225,7 +221,6 @@
       logo: https://www.google.com/s2/favicons?domain=getquicker.net&sz=64
       url: https://getquicker.net/Share
       description: "效率提升与自动化工具"
-    
 - taxonomy: 第二页:学习&工作
   icon: fas fa-book fa-lg
   list:
@@ -349,6 +344,24 @@
       logo: https://www.google.com/s2/favicons?domain=migratemate.co&sz=64
       url: https://migratemate.co/
       description: migratemate
+  - term: 个人站
+    links:
+    - title: peter
+      logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
+      url: https://peterlogic1.github.io/
+      description: "个人主页与项目展示"
+    - title: stevenroberson
+      logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
+      url: https://www.stevenroberson.com/
+      description: "stevenroberson的个人博客与作品集"
+    - title: zezhouchen
+      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
+      url: https://zezhouchen.com/
+      description: "zezhouchen"
+    - title: Mikhail Rakhmatullin
+      logo: https://www.google.com/s2/favicons?domain=artstation.com&sz=64
+      url: https://rahmatozz.artstation.com/
+      description: "Mikhail Rakhmatullin的ArtStation作品集"
 - taxonomy: 第三页:资源
   icon: fas fa-download fa-lg
   list:
