@@ -8,7 +8,7 @@
     - title: B站
       logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
       url: https://search.bilibili.com/all
-      description: "中国知名弹幕视频网站"
+      description: "中国知名弹幕视频网站" 
     - title: DeepL翻译
       logo: https://www.google.com/s2/favicons?domain=deepl.com&sz=64
       url: https://www.deepl.com/en/translator
@@ -41,6 +41,10 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
+   - title: Moodle
+      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
+      url: https://swufe.brilianspace.com/login/index.php
+      description: "Moodle"
   - term: 本地开发
     links:
     - title: ELKO
@@ -626,10 +630,42 @@
 
   - term: 神秘小网站
     links:
-    - title: ？
+    - title:  R34
       logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
       url: https://rule34.paheal.net/
       description: ？
+    - title: YMGAL
+      logo: https://www.google.com/s2/favicons?domain=www.ymgal.games&sz=64
+      url: https://www.ymgal.games/
+      description: Galgame 资源站
+    - title: TouchGal
+      logo: https://www.google.com/s2/favicons?domain=www.touchgal.top&sz=64
+      url: https://www.touchgal.top/
+      description: Galgame 资源与资讯站
+    - title: 青桔网
+      logo: https://www.google.com/s2/favicons?domain=www.qingju.org&sz=64
+      url: https://www.qingju.org/
+      description: Galgame 资源站
+    - title: ACGS.ONE
+      logo: https://www.google.com/s2/favicons?domain=acgs.one&sz=64
+      url: https://acgs.one/
+      description: ACG 资源站
+    - title: Zi6
+      logo: https://www.google.com/s2/favicons?domain=zi6.cc&sz=64
+      url: https://zi6.cc/
+      description: 资源索引站
+    - title: Sukebei Nyaa
+      logo: https://www.google.com/s2/favicons?domain=sukebei.nyaa.si&sz=64
+      url: https://sukebei.nyaa.si/?f=0&c=1_3&q=
+      description: 日文资源种子索引
+    - title: GGBases
+      logo: https://www.google.com/s2/favicons?domain=www.ggbases.com&sz=64
+      url: https://www.ggbases.com/search.so?title=galgame.c
+      description: Galgame 搜索站
+    - title: Shinnku Files
+      logo: https://www.google.com/s2/favicons?domain=www.shinnku.com&sz=64
+      url: https://www.shinnku.com/files
+      description: 文件分享站
 - taxonomy: 第四页:娱乐
   icon: fas fa-gamepad fa-lg
   list:
