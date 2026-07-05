@@ -633,7 +633,19 @@
     - title:  R34
       logo: https://www.google.com/s2/favicons?domain=rule34.paheal.net&sz=64
       url: https://rule34.paheal.net/
-      description: ？
+      description: r34
+    - title:  E621
+      logo: https://www.google.com/s2/favicons?domain=e621.net&sz=64
+      url: https://e621.net/
+      description: e621
+    - title:  E926
+      logo: https://www.google.com/s2/favicons?domain=e926.net&sz=64
+      url: https://e926.net/
+      description: e926
+    - title: 禁漫天堂
+      logo: https://www.google.com/s2/favicons?domain=dmzj.com&sz=64
+      url: https://www.dmzj.com/
+      description: 禁漫天堂
     - title: YMGAL
       logo: https://www.google.com/s2/favicons?domain=www.ymgal.games&sz=64
       url: https://www.ymgal.games/
@@ -665,7 +677,11 @@
     - title: Shinnku Files
       logo: https://www.google.com/s2/favicons?domain=www.shinnku.com&sz=64
       url: https://www.shinnku.com/files
-      description: 文件分享站
+      description: Galgame
+    - title: Shinnku Files
+      logo: https://www.google.com/s2/favicons?domain=www.ai2.moe&sz=64
+      url: https://www.ai2.moe/files/
+      description: Galgame
 - taxonomy: 第四页:娱乐
   icon: fas fa-gamepad fa-lg
   list:
