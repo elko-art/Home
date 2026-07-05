@@ -41,7 +41,7 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
-   - title: Moodle
+    - title: Moodle
       logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
       url: https://swufe.brilianspace.com/login/index.php
       description: "Moodle"
@@ -627,7 +627,6 @@
       logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
       description: lazy midi
-
   - term: 神秘小网站
     links:
     - title:  R34
