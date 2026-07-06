@@ -338,6 +338,10 @@
       logo: https://www.google.com/s2/favicons?domain=markdown.com.cn&sz=64
       url: https://markdown.com.cn/basic-syntax/
       description: Markdown基础语法教程
+    - title: Desmos 计算器
+      logo: https://www.google.com/s2/favicons?domain=www.desmos.com&sz=64
+      url: https://www.desmos.com/calculator?lang=zh-CN
+      description: 在线图形计算器
   - term: 就业
     links:
     - title: my visa job
