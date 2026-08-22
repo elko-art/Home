@@ -395,6 +395,12 @@
       logo: https://www.google.com/s2/favicons?domain=tuostudy.upnb.top&sz=64
       url: https://tuostudy.upnb.top/
       description: 图欧资源站
+  - term: 地理
+    links:
+    - title: 地理板块
+      logo: https://www.google.com/s2/favicons?domain=www.arcgis.com&sz=64
+      url: https://www.arcgis.com/home/webscene/viewer.html
+      description: 地理
   - term: 动画绘画资源
     links:
     - title: Animations Screencaps
