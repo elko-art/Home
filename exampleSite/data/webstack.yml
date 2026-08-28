@@ -293,7 +293,7 @@
     - title: google
       logo: https://www.google.com/s2/favicons?domain=translate.google.com&sz=64
       url: https://translate.google.com/?hl=zh-CN&sl=auto&tl=en&op=translate
-      description: "谷歌翻译（英语学习）"
+      description: "谷歌翻译"
     - title: 剑桥
       logo: https://www.google.com/s2/favicons?domain=dictionary.cambridge.org&sz=64
       url: https://dictionary.cambridge.org/zhs/
