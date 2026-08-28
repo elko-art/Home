@@ -268,15 +268,15 @@
       description: "数字徽章与成就认证"
   - term: 选课
     links:
-     - title: 历史大纲
+    - title: 历史大纲
       logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
       url: https://ssb.scad.edu/ssb/bwckctlg.p_disp_listcrse?crse_in=121&schd_in=S&subj_in=ITGM&term_in=202310
       description: 历史大纲
-     - title: 历史课程编号
+    - title: 历史课程编号
       logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
       url: https://ssb.scad.edu/ssb/bwckctlg.p_disp_dyn_ctlg
       description: 历史课程编号
-     - title: Rate My Professors
+    - title: Rate My Professors
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
       description: 教授评价网站
@@ -284,10 +284,6 @@
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
       description: 教授评价网站
-    - title: Coursicle
-      logo: https://www.google.com/s2/favicons?domain=coursicle.com&sz=64
-      url: https://www.coursicle.com/scad/
-      description: "课程评价与时间表规划工具"
   - term: 英语
     links:
     - title: quizlet
