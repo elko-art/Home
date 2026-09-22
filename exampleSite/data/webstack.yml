@@ -234,7 +234,7 @@
       logo: https://www.google.com/s2/favicons?domain=my.scad.edu&sz=64
       url: https://my.scad.edu/uPortal/f/Home/normal/render.uP
       description: "SCAD学生门户"
-    - title: BB
+    - title: Blackboard
       logo: https://www.google.com/s2/favicons?domain=scad.blackboard.com&sz=64
       url: https://scad.blackboard.com/ultra/institution-page
       description: "SCAD在线课程平台"
@@ -284,6 +284,10 @@
       logo: https://www.google.com/s2/favicons?domain=ratemyprofessors.com&sz=64
       url: https://www.ratemyprofessors.com/
       description: 教授评价网站
+    - title: SCAD课程大纲
+      logo: https://www.google.com/s2/favicons?domain=scad.simplesyllabus.com&sz=64
+      url: https://scad.simplesyllabus.com/en-US/syllabus-library
+      description: "SCAD课程大纲库"
   - term: 英语
     links:
     - title: quizlet
@@ -551,6 +555,10 @@
       logo: https://www.google.com/s2/favicons?domain=getcomics.org&sz=64
       url: https://getcomics.org/
       description: comic
+    - title: Z-Library
+      logo: https://www.google.com/s2/favicons?domain=z-lib.li&sz=64
+      url: https://z-lib.li/
+      description: Z-Library
   - term: 图标
     links:
     - title: iconfinder
@@ -647,6 +655,10 @@
       logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       url: https://drive.google.com/drive/folders/16eafxLIcVy5j0NK2Lsyj0uXSObuUhiL_
       description: lazy midi
+    - title: VideoGameMusic
+      logo: https://www.google.com/s2/favicons?domain=downloads.khinsider.com&sz=64
+      url: https://downloads.khinsider.com/
+      description: 视频游戏音乐
   - term: 神秘小网站
     links:
     - title:  R34
