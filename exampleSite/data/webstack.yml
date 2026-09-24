@@ -123,6 +123,10 @@
       logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64
       url: https://chatgpt.com/
       description: "OpenAI推出的AI聊天工具"
+    - title: Grok
+      logo: https://www.google.com/s2/favicons?domain=grok.com&sz=64
+      url: https://grok.com/
+      description: "xAI推出的AI对话与搜索平台"
     - title: gemini
       logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       url: https://gemini.google.com/
@@ -181,6 +185,10 @@
       logo: https://www.google.com/s2/favicons?domain=pinterest.com&sz=64
       url: https://www.pinterest.com/
       description: "图片灵感收集与分享平台"
+    - title: Xfinity
+      logo: https://www.google.com/s2/favicons?domain=xfinity.com&sz=64
+      url: https://www.xfinity.com/
+      description: "美国宽带和数字电视服务平台"
   - term: 社交媒体
     links:
     - title: Instagram
