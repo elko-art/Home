@@ -822,6 +822,10 @@
       logo: https://www.google.com/s2/favicons?domain=www.tbtool.cn&sz=64
       url: https://www.tbtool.cn/
       description: "图吧工具箱"
+    - title: 豪华版图吧工具箱
+      logo: https://www.google.com/s2/favicons?domain=tubawinui3.cn&sz=64
+      url: https://tubawinui3.cn/
+      description: "豪华版图吧工具箱"
     - title: Steam
       logo: https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=64
       url: https://store.steampowered.com/
