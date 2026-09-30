@@ -41,10 +41,10 @@
       logo: https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64
       url: https://notebooklm.google.com/
       description: "谷歌AI笔记与知识管理工具"
-    - title: Moodle
-      logo: https://www.google.com/s2/favicons?domain=search.bilibili.com&sz=64
-      url: https://swufe.brilianspace.com/login/index.php
-      description: "Moodle"
+    - title: MakeCode Arcade
+      logo: https://www.google.com/s2/favicons?domain=arcade.makecode.com&sz=64
+      url: https://arcade.makecode.com/
+      description: "微软 MakeCode Arcade 在线编程与游戏制作平台"
   - term: 本地开发
     links:
     - title: ELKO
@@ -738,6 +738,10 @@
       logo: https://www.google.com/s2/favicons?domain=chunkbase.com&sz=64
       url: https://www.chunkbase.com/
       description: "Minecraft地图种子工具"
+    - title: MakeCode Arcade
+      logo: https://www.google.com/s2/favicons?domain=arcade.makecode.com&sz=64
+      url: https://arcade.makecode.com/
+      description: "微软 MakeCode Arcade 在线编程与游戏制作平台"
   - term: 游戏资源
     links:
     - title: 修改版游戏
