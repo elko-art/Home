@@ -742,6 +742,10 @@
       logo: https://www.google.com/s2/favicons?domain=arcade.makecode.com&sz=64
       url: https://arcade.makecode.com/
       description: "微软 MakeCode Arcade 在线编程与游戏制作平台"
+    - title: MakeCode MIDI Converter
+      logo: https://www.google.com/s2/favicons?domain=riknoll.github.io&sz=64
+      url: https://riknoll.github.io/makecode-midi-converter/
+      description: "MakeCode Arcade MIDI 音乐转换工具"
   - term: 游戏资源
     links:
     - title: 修改版游戏
