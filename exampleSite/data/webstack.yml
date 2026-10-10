@@ -495,6 +495,16 @@
       logo: https://www.google.com/s2/favicons?domain=xdown.app&sz=64
       url: https://xdown.app/zh-cn
       description: 推特视频下载
+  - term: 影视
+    links:
+    - title: 追剧免费
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/laoma528/awesome-zhuiju-free
+      description: 免费影视资源导航与追剧指南
+    - title: 爱壹帆
+      logo: https://www.google.com/s2/favicons?domain=iyf.tv&sz=64
+      url: https://www.iyf.tv/
+      description: 在线影视观看平台
   - term: 速写模特
     links:
     - title: Line of Action
