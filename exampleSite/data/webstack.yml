@@ -463,6 +463,24 @@
       logo: https://www.google.com/s2/favicons?domain=animationmethods.com&sz=64
       url: https://www.animationmethods.com/rigs.html
       description: "3D角色绑定(rigging)资源与教学"
+  - term: 材质
+    links:
+    - title: Texturelabs
+      logo: https://www.google.com/s2/favicons?domain=texturelabs.org&sz=64
+      url: https://texturelabs.org/
+      description: "高质量图片纹理与视觉素材资源库"
+    - title: Poly Haven 纹理
+      logo: https://www.google.com/s2/favicons?domain=polyhaven.com&sz=64
+      url: https://polyhaven.com/textures
+      description: "Poly Haven 免费纹理和材质资源"
+    - title: ambientCG
+      logo: https://www.google.com/s2/favicons?domain=ambientcg.com&sz=64
+      url: https://ambientcg.com/list
+      description: "免费PBR材质、纹理和HDRI资源库"
+    - title: TextureCan
+      logo: https://www.google.com/s2/favicons?domain=texturecan.com&sz=64
+      url: https://www.texturecan.com/
+      description: "免费PBR纹理和材质资源库"
   - term: 扒视频
     links:
     - title: 油管
