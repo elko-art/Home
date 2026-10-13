@@ -433,6 +433,12 @@
       logo: https://www.google.com/s2/favicons?domain=docs.krita.org&sz=64
       url: https://docs.krita.org/en/resources_page.html
       description: "Krita 官方资源页，包含笔刷、纹理与动画/绘画相关素材与教程"
+  - term: 设定集
+    links:
+    - title: Character Design References
+      logo: https://www.google.com/s2/favicons?domain=characterdesignreferences.com&sz=64
+      url: https://characterdesignreferences.com/
+      description: "角色设计与视觉开发参考资源库"
   - term: 3D资源
     links:
     - title: Poly Haven
