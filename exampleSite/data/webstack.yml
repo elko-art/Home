@@ -374,24 +374,6 @@
       logo: https://www.google.com/s2/favicons?domain=migratemate.co&sz=64
       url: https://migratemate.co/
       description: migratemate
-  - term: 个人站
-    links:
-    - title: peter
-      logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
-      url: https://peterlogic1.github.io/
-      description: "个人主页与项目展示"
-    - title: stevenroberson
-      logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
-      url: https://www.stevenroberson.com/
-      description: "stevenroberson的个人博客与作品集"
-    - title: zezhouchen
-      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
-      url: https://zezhouchen.com/
-      description: "zezhouchen"
-    - title: Mikhail Rakhmatullin
-      logo: https://www.google.com/s2/favicons?domain=artstation.com&sz=64
-      url: https://rahmatozz.artstation.com/
-      description: "Mikhail Rakhmatullin的ArtStation作品集"
 - taxonomy: 第三页:资源
   icon: fas fa-download fa-lg
   list:
@@ -960,3 +942,128 @@
       logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       url: https://github.com/Tichau/FileConverter
       description: "多文件格式转换工具"
+- taxonomy: 第六页:个人站
+  icon: fas fa-user fa-lg
+  list:
+  - term: 个人站
+    links:
+    - title: 个人主页
+      logo: https://www.google.com/s2/favicons?domain=peterlogic1.github.io&sz=64
+      url: https://peterlogic1.github.io/
+      description: "个人主页与项目展示"
+    - title: 个人博客与作品集 + stevenroberson
+      logo: https://www.google.com/s2/favicons?domain=stevenroberson.com&sz=64
+      url: https://www.stevenroberson.com/
+      description: "stevenroberson的个人博客与作品集"
+    - title: 个人主页 + zezhouchen
+      logo: https://www.google.com/s2/favicons?domain=zezhouchen.com&sz=64
+      url: https://zezhouchen.com/
+      description: "zezhouchen"
+    - title: 首席概念设计师 + Mikhail Rakhmatullin
+      logo: https://www.google.com/s2/favicons?domain=artstation.com&sz=64
+      url: https://rahmatozz.artstation.com/
+      description: "Mikhail Rakhmatullin的ArtStation作品集"
+  - term: 第一部《Ori and the Blind Forest》（2015）
+    links:
+    - title: 美术工作室 + Airborn Studios
+      logo: https://www.google.com/s2/favicons?domain=airbornstudios.artstation.com&sz=64
+      url: https://airbornstudios.artstation.com/albums/11194
+      description: "第一部《Ori and the Blind Forest》（2015）｜已核对作者主页及相关 Ori 作品"
+    - title: 角色概念设计 + Johannes Figlhuber
+      logo: https://www.google.com/s2/favicons?domain=johannesfiglhuber.artstation.com&sz=64
+      url: https://johannesfiglhuber.artstation.com/albums/12775
+      description: "第一部《Ori and the Blind Forest》（2015）"
+    - title: 早期视觉开发 + Maximilian Degen
+      logo: https://www.google.com/s2/favicons?domain=maximiliandegen.artstation.com&sz=64
+      url: https://maximiliandegen.artstation.com/projects/ZeqXZ
+      description: "第一部《Ori and the Blind Forest》（2015）"
+    - title: 场景概念设计 + Simon Kopp
+      logo: https://www.google.com/s2/favicons?domain=acapulco.artstation.com&sz=64
+      url: https://acapulco.artstation.com/projects/2q55A
+      description: "第一部《Ori and the Blind Forest》（2015）"
+    - title: 界面、场景美术 + Anna Jasinski
+      logo: https://www.google.com/s2/favicons?domain=annajasinski.artstation.com&sz=64
+      url: https://annajasinski.artstation.com/
+      description: "第一部《Ori and the Blind Forest》（2015）"
+    - title: 决定版场景美术 + Maggy Lisakowski
+      logo: https://www.google.com/s2/favicons?domain=maggylisakowski.artstation.com&sz=64
+      url: https://maggylisakowski.artstation.com/projects/Dy2GO
+      description: "第一部《Ori and the Blind Forest》（2015）"
+    - title: 概念美术 + Michel Gibault
+      logo: https://www.google.com/s2/favicons?domain=michelgibault.artstation.com&sz=64
+      url: https://michelgibault.artstation.com/
+      description: "第一部《Ori and the Blind Forest》（2015）"
+  - term: 第二部《Ori and the Will of the Wisps》（2020）
+    links:
+    - title: 美术指导、分镜 + Jeremy Gritton
+      logo: https://www.google.com/s2/favicons?domain=jeremygritton.artstation.com&sz=64
+      url: https://jeremygritton.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 美术主管、技术美术 + Daniel van Leeuwen
+      logo: https://www.google.com/s2/favicons?domain=elementrix.artstation.com&sz=64
+      url: https://elementrix.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 首席概念设计师 + Mikhail Rakhmatullin
+      logo: https://www.google.com/s2/favicons?domain=rahmatozz.artstation.com&sz=64
+      url: https://rahmatozz.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 角色、场景概念设计 + Sarah Morris
+      logo: https://www.google.com/s2/favicons?domain=braverobynart.com&sz=64
+      url: https://braverobynart.com/oriwotw
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景概念设计 + Oliver Ryan
+      logo: https://www.google.com/s2/favicons?domain=oliverryan.artstation.com&sz=64
+      url: https://oliverryan.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景概念设计、封面 + Leonid Koliagin
+      logo: https://www.google.com/s2/favicons?domain=leonidkolyagin.artstation.com&sz=64
+      url: https://leonidkolyagin.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景概念设计 + Florian Herold
+      logo: https://www.google.com/s2/favicons?domain=faherold.artstation.com&sz=64
+      url: https://faherold.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景美术 + Oleg Shekhovtsov
+      logo: https://www.google.com/s2/favicons?domain=leshiy.artstation.com&sz=64
+      url: https://leshiy.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 角色、场景概念设计 + Leroy van Vliet
+      logo: https://www.google.com/s2/favicons?domain=leroyvanvliet.artstation.com&sz=64
+      url: https://leroyvanvliet.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 技能树、场景美术 + Bożenka Jelonek
+      logo: https://www.google.com/s2/favicons?domain=jelonek.artstation.com&sz=64
+      url: https://jelonek.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 概念设计、场景美术 + Lina Kit
+      logo: https://www.google.com/s2/favicons?domain=linakit.artstation.com&sz=64
+      url: https://linakit.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 色彩设计、光照概念 + Iris Muddy
+      logo: https://www.google.com/s2/favicons?domain=irismuddy.artstation.com&sz=64
+      url: https://irismuddy.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景美术、光照 + Juliano Yi
+      logo: https://www.google.com/s2/favicons?domain=juyi.artstation.com&sz=64
+      url: https://juyi.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 3D 角色美术主管 + Tyler Hunter
+      logo: https://www.google.com/s2/favicons?domain=tylerhunter.artstation.com&sz=64
+      url: https://tylerhunter.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 3D 角色与敌人 + Csaba Baity
+      logo: https://www.google.com/s2/favicons?domain=tsabszy.artstation.com&sz=64
+      url: https://tsabszy.artstation.com/
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 3D 角色美术 + Alina Ivanchenko
+      logo: https://www.google.com/s2/favicons?domain=www.artstation.com&sz=64
+      url: https://www.artstation.com/sirin_digital
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: 场景与光照美术 + Vadim Shchepilov
+      logo: https://www.google.com/s2/favicons?domain=behance.net&sz=64
+      url: https://www.behance.net/gallery/115597195/Ori-and-The-Will-Of-The-Wisps
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
+    - title: Ori 美术测试作品 + Hue Teo
+      logo: https://www.google.com/s2/favicons?domain=htartist.artstation.com&sz=64
+      url: https://htartist.artstation.com/projects
+      description: "第二部《Ori and the Will of the Wisps》（2020）"
