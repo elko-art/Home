@@ -65,7 +65,7 @@
       description: "4323本地开发测试站点"
     - title: sync
       logo: /assets/images/default.png
-      url: http://69.245.67.66:9000/
+      url: http://73.21.108.118:9000/
       description: "个人同步与文件管理站点"
     - title: 酒馆
       logo: /assets/images/default.png
