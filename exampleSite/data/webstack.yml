@@ -189,6 +189,10 @@
       logo: https://www.google.com/s2/favicons?domain=xfinity.com&sz=64
       url: https://www.xfinity.com/
       description: "美国宽带和数字电视服务平台"
+    - title: 小地球仪 / PalantirVPN
+      logo: https://www.google.com/s2/favicons?domain=xiaodiqiuyi.com&sz=64
+      url: https://www.xiaodiqiuyi.com/
+      description: 科学上网与网络加速服务
   - term: 社交媒体
     links:
     - title: Instagram
